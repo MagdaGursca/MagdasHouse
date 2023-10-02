@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="DELETE">
+        <includes/>
+        <macroponent display_value="Knowledge View">a16a7dca972971503c39f757f053af74</macroponent>
+        <name>related_content_1/NODE__isHidden</name>
+        <preset/>
+        <required_translations/>
+        <script><![CDATA[function evaluateProperty({
+    api
+}) {
+
+    const articleDetails = api.data.get_article_details_1.articleDetails;
+    if (articleDetails && articleDetails.showRelatedArticles == false)
+        return true;
+
+    const relatedArticles = api.data.fetch_related_articles_1.relatedArticles;
+    if (relatedArticles && relatedArticles.length > 0)
+        return false;
+
+    return true;
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-29 11:53:20</sys_created_on>
+        <sys_id>3d6a3d0e972971503c39f757f053afb3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>related_content_1/NODE__isHidden</sys_name>
+        <sys_package display_value="Magdas House" source="x_1027698_magdas_0">a70c2255972d7d103c39f757f053afe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Magdas House">a70c2255972d7d103c39f757f053afe8</sys_scope>
+        <sys_update_name>sys_ux_client_script_3d6a3d0e972971503c39f757f053afb3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-29 11:53:20</sys_updated_on>
+        <target>macroponent</target>
+        <type>transform</type>
+    </sys_ux_client_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Magdas House">a70c2255972d7d103c39f757f053afe8</application>
+        <file_path/>
+        <instance_id>b6be5718db9195149df22f17d4961918</instance_id>
+        <instance_name>dev131217</instance_name>
+        <name>sys_ux_client_script_3d6a3d0e972971503c39f757f053afb3</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ux_client_script"&gt;&lt;sys_ux_client_script action="INSERT_OR_UPDATE"&gt;&lt;includes/&gt;&lt;macroponent display_value="Knowledge View"&gt;a16a7dca972971503c39f757f053af74&lt;/macroponent&gt;&lt;name&gt;related_content_1/NODE__isHidden&lt;/name&gt;&lt;preset/&gt;&lt;required_translations/&gt;&lt;script&gt;&lt;![CDATA[function evaluateProperty({
+    api
+}) {
+
+    const articleDetails = api.data.get_article_details_1.articleDetails;
+    if (articleDetails &amp;&amp; articleDetails.showRelatedArticles == false)
+        return true;
+
+    const relatedArticles = api.data.fetch_related_articles_1.relatedArticles;
+    if (relatedArticles &amp;&amp; relatedArticles.length &gt; 0)
+        return false;
+
+    return true;
+}]]&gt;&lt;/script&gt;&lt;script_api_version&gt;2.0.0&lt;/script_api_version&gt;&lt;sys_class_name&gt;sys_ux_client_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-09-29 11:53:20&lt;/sys_created_on&gt;&lt;sys_id&gt;3d6a3d0e972971503c39f757f053afb3&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;related_content_1/NODE__isHidden&lt;/sys_name&gt;&lt;sys_package display_value="Magdas House" source="x_1027698_magdas_0"&gt;a70c2255972d7d103c39f757f053afe8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Magdas House"&gt;a70c2255972d7d103c39f757f053afe8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ux_client_script_3d6a3d0e972971503c39f757f053afb3&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-09-29 11:53:20&lt;/sys_updated_on&gt;&lt;target&gt;macroponent&lt;/target&gt;&lt;type&gt;transform&lt;/type&gt;&lt;/sys_ux_client_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1761482269</payload_hash>
+        <record_name>related_content_1/NODE__isHidden</record_name>
+        <reverted_from/>
+        <source>ab0c2255972d7d103c39f757f053afea</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-29 11:53:26</sys_created_on>
+        <sys_id>5b6abd0e972971503c39f757f053afbf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ae0c958a60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-29 11:53:26</sys_updated_on>
+        <type>UX Client Script</type>
+        <update_guid>136abd0e22297150bff1ce5f6e5c13bf</update_guid>
+        <update_guid_history>136abd0e22297150bff1ce5f6e5c13bf:-1761482269,476abd0e4f297150e8fb0761ba5f138f:-780545332,626a7d0ed829715090c09e3fab2673ef:-1761482269,f96a3d0efa29715090c76bd7f8b67bb7:-1561532470</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-29 11:54:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_client_script">sys_ux_client_script</sys_db_object>
+        <sys_id>35406f80fcf5432fa92cd6f1a9ed9181</sys_id>
+        <sys_metadata>3d6a3d0e972971503c39f757f053afb3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>related_content_1/NODE__isHidden</sys_name>
+        <sys_package display_value="Magdas House" source="x_1027698_magdas_0">a70c2255972d7d103c39f757f053afe8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Magdas House">a70c2255972d7d103c39f757f053afe8</sys_scope>
+        <sys_scope_delete display_value="">155ed1e0d3b14ae2887faa2d4edf74a4</sys_scope_delete>
+        <sys_update_name>sys_ux_client_script_3d6a3d0e972971503c39f757f053afb3</sys_update_name>
+        <sys_update_version display_value="sys_ux_client_script_3d6a3d0e972971503c39f757f053afb3">5b6abd0e972971503c39f757f053afbf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-29 11:54:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

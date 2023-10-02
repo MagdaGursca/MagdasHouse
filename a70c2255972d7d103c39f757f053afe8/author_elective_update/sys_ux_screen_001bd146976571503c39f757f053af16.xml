@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="DELETE">
+        <active>true</active>
+        <app_config display_value="Magdas House Config">830de695c42d7d100d1a99fefcce395d</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="List">2c08111d0fc21010036a83fa68767ef6</macroponent>
+        <macroponent_config>{ }</macroponent_config>
+        <name>Inline Edit</name>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Edit List">74a49dbd97edfd103c39f757f053afcf</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-29 09:36:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>001bd146976571503c39f757f053af16</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Inline Edit</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Magdas House" source="x_1027698_magdas_0">a70c2255972d7d103c39f757f053afe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Magdas House">a70c2255972d7d103c39f757f053afe8</sys_scope>
+        <sys_update_name>sys_ux_screen_001bd146976571503c39f757f053af16</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-29 09:36:24</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="DELETE" query="documentkey=001bd146976571503c39f757f053af16"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Magdas House">a70c2255972d7d103c39f757f053afe8</application>
+        <file_path/>
+        <instance_id>b6be5718db9195149df22f17d4961918</instance_id>
+        <instance_name>dev131217</instance_name>
+        <name>sys_ux_screen_001bd146976571503c39f757f053af16</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>true</active><app_config display_value="Magdas House Config">830de695c42d7d100d1a99fefcce395d</app_config><description/><event_mappings/><macroponent display_value="List">2c08111d0fc21010036a83fa68767ef6</macroponent><macroponent_config>{ }</macroponent_config><name>Inline Edit</name><order>0</order><parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent><required_translations>[ ]</required_translations><rollback_screen/><screen_condition/><screen_type display_value="Edit List">74a49dbd97edfd103c39f757f053afcf</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-29 09:36:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>001bd146976571503c39f757f053af16</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Inline Edit</sys_name><sys_overrides/><sys_package display_value="Magdas House" source="x_1027698_magdas_0">a70c2255972d7d103c39f757f053afe8</sys_package><sys_policy/><sys_scope display_value="Magdas House">a70c2255972d7d103c39f757f053afe8</sys_scope><sys_update_name>sys_ux_screen_001bd146976571503c39f757f053af16</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-29 09:36:24</sys_updated_on></sys_ux_screen><sys_translated_text action="delete_multiple" query="documentkey=001bd146976571503c39f757f053af16"/></record_update>]]></payload>
+        <payload_hash>-1383921682</payload_hash>
+        <record_name>Inline Edit</record_name>
+        <reverted_from/>
+        <source>ab0c2255972d7d103c39f757f053afea</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-29 09:36:25</sys_created_on>
+        <sys_id>841bd146976571503c39f757f053af18</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ae04be5c20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-29 09:36:25</sys_updated_on>
+        <type>UX Screen</type>
+        <update_guid>8c1bd1469a65715018a0bb145e9dbb17</update_guid>
+        <update_guid_history>8c1bd1469a65715018a0bb145e9dbb17:-1383921682</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-29 09:42:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen">sys_ux_screen</sys_db_object>
+        <sys_id>9d7ea8e28da940149100b3e5e3f580c4</sys_id>
+        <sys_metadata>001bd146976571503c39f757f053af16</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Inline Edit</sys_name>
+        <sys_package display_value="Magdas House" source="x_1027698_magdas_0">a70c2255972d7d103c39f757f053afe8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Magdas House">a70c2255972d7d103c39f757f053afe8</sys_scope>
+        <sys_scope_delete display_value="">155ed1e0d3b14ae2887faa2d4edf74a4</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_001bd146976571503c39f757f053af16</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_001bd146976571503c39f757f053af16">841bd146976571503c39f757f053af18</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-29 09:42:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

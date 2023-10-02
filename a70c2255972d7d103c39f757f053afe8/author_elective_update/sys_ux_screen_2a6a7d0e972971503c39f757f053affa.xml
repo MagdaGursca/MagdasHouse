@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="DELETE">
+        <active>true</active>
+        <app_config display_value="Magdas House Config">830de695c42d7d100d1a99fefcce395d</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Knowledge View">a16a7dca972971503c39f757f053af74</macroponent>
+        <macroponent_config>{
+  "table" : {
+    "type" : "JSON_LITERAL",
+    "value" : ""
+  },
+  "mode" : {
+    "type" : "JSON_LITERAL",
+    "value" : ""
+  },
+  "base" : {
+    "type" : "JSON_LITERAL",
+    "value" : ""
+  },
+  "label" : {
+    "type" : "TRANSLATION_LITERAL",
+    "value" : {
+      "code" : null,
+      "message" : "",
+      "comment" : ""
+    }
+  },
+  "bare" : {
+    "type" : "JSON_LITERAL",
+    "value" : true
+  },
+  "scrollable" : {
+    "type" : "JSON_LITERAL",
+    "value" : "y"
+  },
+  "headerLevel" : {
+    "type" : "JSON_LITERAL",
+    "value" : "1"
+  },
+  "headingOnlyVisibleToScreenReaders" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "interceptNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "propagateNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  }
+}</macroponent_config>
+        <name>Order Details default Copy - 3.0.0 preview.</name>
+        <order>9999</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen display_value="Order Details default Copy">345a390e972971503c39f757f053afe8</rollback_screen>
+        <screen_condition/>
+        <screen_type display_value="Order Details">d42a3dca972971503c39f757f053afd1</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-29 11:53:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2a6a7d0e972971503c39f757f053affa</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Order Details default Copy - 3.0.0 preview.</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Magdas House" source="x_1027698_magdas_0">a70c2255972d7d103c39f757f053afe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Magdas House">a70c2255972d7d103c39f757f053afe8</sys_scope>
+        <sys_update_name>sys_ux_screen_2a6a7d0e972971503c39f757f053affa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-29 11:54:08</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="DELETE" query="documentkey=2a6a7d0e972971503c39f757f053affa"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Magdas House">a70c2255972d7d103c39f757f053afe8</application>
+        <file_path/>
+        <instance_id>b6be5718db9195149df22f17d4961918</instance_id>
+        <instance_name>dev131217</instance_name>
+        <name>sys_ux_screen_2a6a7d0e972971503c39f757f053affa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>true</active><app_config display_value="Magdas House Config">830de695c42d7d100d1a99fefcce395d</app_config><description/><event_mappings>[ ]</event_mappings><macroponent display_value="Knowledge View">a16a7dca972971503c39f757f053af74</macroponent><macroponent_config>{
+  "table" : {
+    "type" : "JSON_LITERAL",
+    "value" : ""
+  },
+  "mode" : {
+    "type" : "JSON_LITERAL",
+    "value" : ""
+  },
+  "base" : {
+    "type" : "JSON_LITERAL",
+    "value" : ""
+  },
+  "label" : {
+    "type" : "TRANSLATION_LITERAL",
+    "value" : {
+      "code" : null,
+      "message" : "",
+      "comment" : ""
+    }
+  },
+  "bare" : {
+    "type" : "JSON_LITERAL",
+    "value" : true
+  },
+  "scrollable" : {
+    "type" : "JSON_LITERAL",
+    "value" : "y"
+  },
+  "headerLevel" : {
+    "type" : "JSON_LITERAL",
+    "value" : "1"
+  },
+  "headingOnlyVisibleToScreenReaders" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "interceptNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "propagateNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  }
+}</macroponent_config><name>Order Details default Copy - 3.0.0 preview.</name><order>9999</order><parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent><required_translations>[ ]</required_translations><rollback_screen display_value="Order Details default Copy">345a390e972971503c39f757f053afe8</rollback_screen><screen_condition/><screen_type display_value="Order Details">d42a3dca972971503c39f757f053afd1</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-29 11:53:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2a6a7d0e972971503c39f757f053affa</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Order Details default Copy - 3.0.0 preview.</sys_name><sys_overrides/><sys_package display_value="Magdas House" source="x_1027698_magdas_0">a70c2255972d7d103c39f757f053afe8</sys_package><sys_policy/><sys_scope display_value="Magdas House">a70c2255972d7d103c39f757f053afe8</sys_scope><sys_update_name>sys_ux_screen_2a6a7d0e972971503c39f757f053affa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-29 11:54:08</sys_updated_on></sys_ux_screen><sys_translated_text action="delete_multiple" query="documentkey=2a6a7d0e972971503c39f757f053affa"/></record_update>]]></payload>
+        <payload_hash>1376443076</payload_hash>
+        <record_name>Order Details default Copy - 3.0.0 preview.</record_name>
+        <reverted_from/>
+        <source>ab0c2255972d7d103c39f757f053afea</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-29 11:54:08</sys_created_on>
+        <sys_id>ed9af94e972971503c39f757f053af7d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ae0c9fc360000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-29 11:54:08</sys_updated_on>
+        <type>UX Screen</type>
+        <update_guid>a59af94e1d297150214c5de580c53d7d</update_guid>
+        <update_guid_history>a59af94e1d297150214c5de580c53d7d:1376443076,a66abd0e792971509f730f62dfcc4b08:1375577521</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-29 11:54:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen">sys_ux_screen</sys_db_object>
+        <sys_id>3be58d672a5e4a7888aff78caae70181</sys_id>
+        <sys_metadata>2a6a7d0e972971503c39f757f053affa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Order Details default Copy - 3.0.0 preview.</sys_name>
+        <sys_package display_value="Magdas House" source="x_1027698_magdas_0">a70c2255972d7d103c39f757f053afe8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Magdas House">a70c2255972d7d103c39f757f053afe8</sys_scope>
+        <sys_scope_delete display_value="">155ed1e0d3b14ae2887faa2d4edf74a4</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_2a6a7d0e972971503c39f757f053affa</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_2a6a7d0e972971503c39f757f053affa">ed9af94e972971503c39f757f053af7d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-29 11:54:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

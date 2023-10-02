@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="DELETE">
+        <includes/>
+        <macroponent display_value="Knowledge View">a16a7dca972971503c39f757f053af74</macroponent>
+        <name>edit_button/NODE__isHidden</name>
+        <preset/>
+        <required_translations/>
+        <script><![CDATA[function evaluateProperty({api}) {
+	if(api.data.get_article_details_1.articleDetails)
+		return !api.data.get_article_details_1.articleDetails.isEditable;
+	return '';
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-29 11:53:20</sys_created_on>
+        <sys_id>316a3d0e972971503c39f757f053afc8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>edit_button/NODE__isHidden</sys_name>
+        <sys_package display_value="Magdas House" source="x_1027698_magdas_0">a70c2255972d7d103c39f757f053afe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Magdas House">a70c2255972d7d103c39f757f053afe8</sys_scope>
+        <sys_update_name>sys_ux_client_script_316a3d0e972971503c39f757f053afc8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-29 11:53:20</sys_updated_on>
+        <target>macroponent</target>
+        <type>transform</type>
+    </sys_ux_client_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Magdas House">a70c2255972d7d103c39f757f053afe8</application>
+        <file_path/>
+        <instance_id>b6be5718db9195149df22f17d4961918</instance_id>
+        <instance_name>dev131217</instance_name>
+        <name>sys_ux_client_script_316a3d0e972971503c39f757f053afc8</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ux_client_script"&gt;&lt;sys_ux_client_script action="INSERT_OR_UPDATE"&gt;&lt;includes/&gt;&lt;macroponent display_value="Knowledge View"&gt;a16a7dca972971503c39f757f053af74&lt;/macroponent&gt;&lt;name&gt;edit_button/NODE__isHidden&lt;/name&gt;&lt;preset/&gt;&lt;required_translations/&gt;&lt;script&gt;&lt;![CDATA[function evaluateProperty({api}) {
+	if(api.data.get_article_details_1.articleDetails)
+		return !api.data.get_article_details_1.articleDetails.isEditable;
+	return '';
+}]]&gt;&lt;/script&gt;&lt;script_api_version&gt;2.0.0&lt;/script_api_version&gt;&lt;sys_class_name&gt;sys_ux_client_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-09-29 11:53:20&lt;/sys_created_on&gt;&lt;sys_id&gt;316a3d0e972971503c39f757f053afc8&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;edit_button/NODE__isHidden&lt;/sys_name&gt;&lt;sys_package display_value="Magdas House" source="x_1027698_magdas_0"&gt;a70c2255972d7d103c39f757f053afe8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Magdas House"&gt;a70c2255972d7d103c39f757f053afe8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ux_client_script_316a3d0e972971503c39f757f053afc8&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-09-29 11:53:20&lt;/sys_updated_on&gt;&lt;target&gt;macroponent&lt;/target&gt;&lt;type&gt;transform&lt;/type&gt;&lt;/sys_ux_client_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1114744868</payload_hash>
+        <record_name>edit_button/NODE__isHidden</record_name>
+        <reverted_from/>
+        <source>ab0c2255972d7d103c39f757f053afea</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-29 11:53:26</sys_created_on>
+        <sys_id>136abd0e972971503c39f757f053afb9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ae0c9585e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-29 11:53:26</sys_updated_on>
+        <type>UX Client Script</type>
+        <update_guid>d76abd0eb9297150950b7e59393209b8</update_guid>
+        <update_guid_history>d76abd0eb9297150950b7e59393209b8:-1114744868,0f6abd0e49297150c915e8763be52388:-1966996141,2a6a7d0ef0297150f3db86b116de2ce8:-1114744868,fd6a3d0ecc29715030ac3a8dee5437ca:-193724011</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-29 11:53:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_client_script">sys_ux_client_script</sys_db_object>
+        <sys_id>03609a4ee4cd42ad9ea231bc78066429</sys_id>
+        <sys_metadata>316a3d0e972971503c39f757f053afc8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>edit_button/NODE__isHidden</sys_name>
+        <sys_package display_value="Magdas House" source="x_1027698_magdas_0">a70c2255972d7d103c39f757f053afe8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Magdas House">a70c2255972d7d103c39f757f053afe8</sys_scope>
+        <sys_scope_delete display_value="">155ed1e0d3b14ae2887faa2d4edf74a4</sys_scope_delete>
+        <sys_update_name>sys_ux_client_script_316a3d0e972971503c39f757f053afc8</sys_update_name>
+        <sys_update_version display_value="sys_ux_client_script_316a3d0e972971503c39f757f053afc8">136abd0e972971503c39f757f053afb9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-29 11:53:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_canvas">
+    <par_dashboard_canvas action="INSERT_OR_UPDATE">
+        <dashboard display_value="Magdas House">4b0de695242d7d106365f462eb28d056</dashboard>
+        <dashboard_tab display_value="Tab">4f0de6958f2d7d10edc5672a183c945a</dashboard_tab>
+        <layout>[{"sys_id":"430de695c62d7d107214bfdecbf3ad5d","x":0,"y":4,"w":12,"h":3,"component_id":"3a64f550256090d9578ede76158e899c","component_props":"{\"variant\":\"header-secondary\",\"label\":\"My Items\",\"wontWrap\":false,\"hasNoMargin\":false,\"level\":\"1\"}","can_edit":true},{"sys_id":"c30de6954d2d7d10d08022884d516559","x":0,"y":3,"w":12,"h":16,"component_id":"7219cee4e0177c3cf2e48d550ce0f71b","component_props":"{\"listTitle\":null,\"table\":\"u_ui_hungry\",\"query\":\"\",\"columns\":\"u_number,u_name,u_category,u_image,u_favorite,sys_created_on,sys_updated_by\",\"groupByField\":\"\",\"limit\":6,\"maxColumns\":8,\"page\":1,\"highlightedValueConfigId\":\"\",\"hideHighlightedValues\":false,\"hideHeader\":true,\"hideTitle\":false,\"hideTitleRowCount\":false,\"hideRefreshButton\":false,\"hideLastRefreshedText\":false,\"hideColumnResizing\":true,\"hideColumnGrouping\":true,\"hideColumnFiltering\":true,\"hideColumnSorting\":false,\"hidePersonalization\":true,\"hideColumnReorder\":true,\"hideDotwalk\":true,\"hideInlineEditing\":true,\"hideHighlightContent\":false,\"highlightContent\":\"{ \\\"patterns\\\": [], \\\"color\\\" : \\\"\\\" }\",\"hideLinks\":false,\"hideViewAll\":false,\"hideCellFilter\":true,\"hideCheckboxHover\":true,\"hideFilterPanel\":false,\"hideFirstPage\":false,\"hideLastPage\":false,\"hideLimitSelector\":false,\"hideMenuButton\":true,\"hideMultiEdit\":false,\"hideDeclarativeActions\":false,\"hideNextPage\":false,\"hidePages\":false,\"hidePagination\":true,\"hidePanel\":true,\"hidePanelAdvanced\":false,\"hidePanelConditionDelete\":false,\"hidePanelFooter\":false,\"hidePanelRestore\":false,\"hidePreviousPage\":false,\"hideQuickEdit\":true,\"hideRange\":false,\"hideRowCount\":false,\"hideRowSelector\":false,\"hideSelectAll\":true,\"hideEmptyStateImage\":false,\"hideDBViews\":false,\"hideUnnecessaryRowSelectors\":true,\"overrideWordWrapUserPref\":false,\"wordWrap\":false,\"maxCharLimit\":4000,\"refreshRequested\":\"\",\"recordSelectedTable\":\"\",\"recordSelectedSysId\":\"\",\"recordSelectedQuery\":\"\",\"recordSelectedView\":\"\"}","can_edit":true}]</layout>
+        <sys_class_name>par_dashboard_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-27 07:39:11</sys_created_on>
+        <sys_id>0b0de695a62d7d10f4e88fd2845b2157</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Magdas House" source="x_1027698_magdas_0">a70c2255972d7d103c39f757f053afe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Magdas House">a70c2255972d7d103c39f757f053afe8</sys_scope>
+        <sys_update_name>par_dashboard_canvas_0b0de695a62d7d10f4e88fd2845b2157</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-27 10:59:42</sys_updated_on>
+    </par_dashboard_canvas>
+</record_update>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="DELETE">
+        <description/>
+        <name>Order</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-28 14:29:51</sys_created_on>
+        <sys_id>74a49dbd97edfd103c39f757f053afcf</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Order</sys_name>
+        <sys_package display_value="Magdas House" source="x_1027698_magdas_0">a70c2255972d7d103c39f757f053afe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Magdas House">a70c2255972d7d103c39f757f053afe8</sys_scope>
+        <sys_update_name>sys_ux_screen_type_74a49dbd97edfd103c39f757f053afcf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-29 11:50:10</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="DELETE" query="documentkey=74a49dbd97edfd103c39f757f053afcf"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Magdas House">a70c2255972d7d103c39f757f053afe8</application>
+        <file_path/>
+        <instance_id>b6be5718db9195149df22f17d4961918</instance_id>
+        <instance_name>dev131217</instance_name>
+        <name>sys_ux_screen_type_74a49dbd97edfd103c39f757f053afcf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type"><sys_ux_screen_type action="INSERT_OR_UPDATE"><description/><name>Order</name><sys_class_name>sys_ux_screen_type</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-28 14:29:51</sys_created_on><sys_id>74a49dbd97edfd103c39f757f053afcf</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Order</sys_name><sys_package display_value="Magdas House" source="x_1027698_magdas_0">a70c2255972d7d103c39f757f053afe8</sys_package><sys_policy/><sys_scope display_value="Magdas House">a70c2255972d7d103c39f757f053afe8</sys_scope><sys_update_name>sys_ux_screen_type_74a49dbd97edfd103c39f757f053afcf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-29 11:50:10</sys_updated_on></sys_ux_screen_type><sys_translated_text action="delete_multiple" query="documentkey=74a49dbd97edfd103c39f757f053afcf"/></record_update>]]></payload>
+        <payload_hash>931719584</payload_hash>
+        <record_name>Order</record_name>
+        <reverted_from/>
+        <source>ab0c2255972d7d103c39f757f053afea</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-29 11:50:10</sys_created_on>
+        <sys_id>afa9b5ca972971503c39f757f053af30</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ae0c65c730000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-29 11:50:10</sys_updated_on>
+        <type>UX Screen Collection</type>
+        <update_guid>67a9b5ca37297150c36cd062f2b20830</update_guid>
+        <update_guid_history>67a9b5ca37297150c36cd062f2b20830:931719584,f0a49dbd2dedfd108ef8dac6ee0e2ad0:-1696011168</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-29 11:50:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen_type">sys_ux_screen_type</sys_db_object>
+        <sys_id>672f5a26021340dc87b5c2140c9e4e84</sys_id>
+        <sys_metadata>74a49dbd97edfd103c39f757f053afcf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Order</sys_name>
+        <sys_package display_value="Magdas House" source="x_1027698_magdas_0">a70c2255972d7d103c39f757f053afe8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Magdas House">a70c2255972d7d103c39f757f053afe8</sys_scope>
+        <sys_scope_delete display_value="">155ed1e0d3b14ae2887faa2d4edf74a4</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_type_74a49dbd97edfd103c39f757f053afcf</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_type_74a49dbd97edfd103c39f757f053afcf">afa9b5ca972971503c39f757f053af30</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-29 11:50:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

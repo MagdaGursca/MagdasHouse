@@ -1,0 +1,2013 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types/>
+        <category>page</category>
+        <component_dependencies/>
+        <composition>[ {
+  "elementId" : "88cfd0cec3302010ec37e0dd9740dde6_Main",
+  "elementLabel" : "Main",
+  "propertyValues" : {
+    "ariaRegionHeadingLevel" : {
+      "type" : "JSON_LITERAL",
+      "value" : 1
+    },
+    "hideEmptyStateUi" : {
+      "type" : "JSON_LITERAL",
+      "value" : true
+    },
+    "ariaRegionName" : {
+      "type" : "TRANSLATION_LITERAL",
+      "value" : {
+        "code" : null,
+        "message" : "",
+        "comment" : ""
+      }
+    },
+    "includeAriaHeading" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "type" : {
+      "type" : "JSON_LITERAL",
+      "value" : "section"
+    },
+    "ariaRole" : {
+      "type" : "JSON_LITERAL",
+      "value" : ""
+    }
+  },
+  "eventMappings" : [ ],
+  "slot" : null,
+  "definition" : {
+    "id" : "d356d14b6e293a3020a244b63d278d8f",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : {
+    "composition" : [ {
+      "elementId" : "viewport_xjk",
+      "elementLabel" : "Tabs 2",
+      "propertyValues" : {
+        "tabStyles" : {
+          "type" : "JSON_LITERAL",
+          "value" : ".tabset-tabs{\n\n}\n.tabset-container{\n\n}"
+        },
+        "fixedWidth" : {
+          "type" : "JSON_LITERAL",
+          "value" : false
+        },
+        "defaultRoute" : {
+          "type" : "JSON_LITERAL",
+          "value" : "cln354rih02f8357x7h57lnny"
+        },
+        "selectedTabIndex" : {
+          "type" : "JSON_LITERAL",
+          "value" : null
+        },
+        "spaceBetweenItems" : {
+          "type" : "JSON_LITERAL",
+          "value" : "none"
+        },
+        "dynamicTabData" : {
+          "type" : "JSON_LITERAL",
+          "value" : null
+        },
+        "enableCollapsing" : {
+          "type" : "JSON_LITERAL",
+          "value" : false
+        },
+        "initiallyCollapsed" : {
+          "type" : "JSON_LITERAL",
+          "value" : false
+        },
+        "viewportConfiguration" : {
+          "type" : "JSON_LITERAL",
+          "value" : {
+            "validation" : {
+              "name" : {
+                "required" : true
+              },
+              "order" : {
+                "required" : false
+              },
+              "icon" : {
+                "required" : false
+              }
+            },
+            "enableDataDrivenTabs" : true
+          }
+        },
+        "size" : {
+          "type" : "JSON_LITERAL",
+          "value" : "md"
+        },
+        "showInlinePadding" : {
+          "type" : "JSON_LITERAL",
+          "value" : true
+        },
+        "position" : {
+          "type" : "JSON_LITERAL",
+          "value" : "top"
+        },
+        "items" : {
+          "type" : "LIST_CONTAINER",
+          "container" : [ ]
+        },
+        "maxWidth" : {
+          "type" : "JSON_LITERAL",
+          "value" : 100000
+        },
+        "hideLabel" : {
+          "type" : "JSON_LITERAL",
+          "value" : false
+        }
+      },
+      "eventMappings" : [ ],
+      "slot" : null,
+      "definition" : {
+        "id" : "b324da974cef96f2db1d484cfeda4e3e",
+        "type" : "MACROPONENT_VIEWPORT"
+      },
+      "overrides" : {
+        "composition" : [ {
+          "elementId" : "clnddffeerilaaccfjjddffhhxmggddrsoys",
+          "elementLabel" : "Home",
+          "propertyValues" : {
+            "ariaRegionHeadingLevel" : {
+              "type" : "JSON_LITERAL",
+              "value" : "1"
+            },
+            "hideEmptyStateUi" : {
+              "type" : "JSON_LITERAL",
+              "value" : true
+            },
+            "ariaRegionName" : {
+              "type" : "TRANSLATION_LITERAL",
+              "value" : {
+                "code" : null,
+                "message" : "",
+                "comment" : ""
+              }
+            },
+            "includeAriaHeading" : {
+              "type" : "JSON_LITERAL",
+              "value" : false
+            },
+            "type" : {
+              "type" : "JSON_LITERAL",
+              "value" : "section"
+            },
+            "ariaRole" : {
+              "type" : "JSON_LITERAL",
+              "value" : ""
+            }
+          },
+          "eventMappings" : [ ],
+          "slot" : "cln354rih02f8357x7h57lnny",
+          "definition" : {
+            "id" : "d356d14b6e293a3020a244b63d278d8f",
+            "type" : "MACROPONENT"
+          },
+          "overrides" : {
+            "composition" : [ {
+              "elementId" : "container_2",
+              "elementLabel" : "Container 2",
+              "propertyValues" : {
+                "ariaRegionHeadingLevel" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : "1"
+                },
+                "hideEmptyStateUi" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : true
+                },
+                "ariaRegionName" : {
+                  "type" : "TRANSLATION_LITERAL",
+                  "value" : {
+                    "code" : null,
+                    "message" : "",
+                    "comment" : ""
+                  }
+                },
+                "includeAriaHeading" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : false
+                },
+                "type" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : "section"
+                },
+                "ariaRole" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : ""
+                }
+              },
+              "eventMappings" : [ ],
+              "slot" : "",
+              "definition" : {
+                "id" : "d356d14b6e293a3020a244b63d278d8f",
+                "type" : "MACROPONENT"
+              },
+              "overrides" : {
+                "composition" : [ {
+                  "elementId" : "single_score_1",
+                  "elementLabel" : "Dial",
+                  "propertyValues" : {
+                    "standardFormatData" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "showFilterIcon" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : true
+                    },
+                    "dateFormat" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : "default"
+                    },
+                    "showMaximumRange" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "scoreType" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "showFirstGroupAggregate" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showForecast" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showZero" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : true
+                    },
+                    "sortBy" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : "value"
+                    },
+                    "showTotalValue" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "innerRadius" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : 0.7
+                    },
+                    "dataSources" : {
+                      "type" : "LIST_CONTAINER",
+                      "container" : [ {
+                        "type" : "MAP_CONTAINER",
+                        "container" : {
+                          "isDatabaseView" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : false
+                          },
+                          "allowRealTime" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : true
+                          },
+                          "label" : {
+                            "type" : "TRANSLATION_LITERAL",
+                            "value" : {
+                              "code" : null,
+                              "message" : "UI Hungry",
+                              "comment" : ""
+                            }
+                          },
+                          "sourceType" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : "table"
+                          },
+                          "tableOrViewName" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : "u_ui_hungry"
+                          },
+                          "filterQuery" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : null
+                          },
+                          "reportSourceSysId" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : null
+                          },
+                          "id" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : "dGFibGV1X3VpX2h1bmdyeTE2OTU5MDI4MDg4OTA="
+                          },
+                          "dataCategories" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : [ "trend", "group", "simple" ]
+                          }
+                        }
+                      } ]
+                    },
+                    "period" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : "M"
+                    },
+                    "showChange" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "configVersion" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : "22.1.8"
+                    },
+                    "maxValue" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "showSubAggregate" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "valueLabelSize" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : "md"
+                    },
+                    "showSecondGroupAggregate" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showMetricLabel" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showHeaderSeparator" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showSparkline" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showTarget" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "metrics" : {
+                      "type" : "LIST_CONTAINER",
+                      "container" : [ {
+                        "type" : "MAP_CONTAINER",
+                        "container" : {
+                          "dataSource" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : "dGFibGV1X3VpX2h1bmdyeTE2OTU5MDI4MDg4OTA="
+                          },
+                          "id" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : "ZEdGaWJHVjFYM1ZwWDJoMWJtZHllVEUyT1RVNU1ESTRNRGc0T1RBPTE2OTU5MDI4MDk3NDI="
+                          },
+                          "aggregateFunction" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : "COUNT"
+                          },
+                          "numberFormat" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : {
+                              "customFormat" : false
+                            }
+                          },
+                          "axisId" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : "primary"
+                          }
+                        }
+                      } ]
+                    },
+                    "showChangeFrom" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "chartSize" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "headerTitle" : {
+                      "type" : "TRANSLATION_LITERAL",
+                      "value" : {
+                        "code" : null,
+                        "message" : "Items",
+                        "comment" : ""
+                      }
+                    },
+                    "applyDateRange" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "formats" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "sortByOrder" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : "desc"
+                    },
+                    "showThreshold" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "description" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "trendBy" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "numberOfPeriods" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : 3
+                    },
+                    "groupBy" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "title" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "showTrend" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "minValue" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : 0
+                    },
+                    "enableRealTimeUpdate" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showForecastRange" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showAbsolutePeriod" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "dataCategory" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "followFilters" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : true
+                    },
+                    "startTime" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "showTotalAggregate" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showChangePercentage" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showHeader" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : true
+                    },
+                    "bareBorder" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "dataPassthrough" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "showConfidenceBand" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showComment" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "refreshFrequency" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "wrapTitle" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showBorder" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : true
+                    },
+                    "colorConfig" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : {
+                        "type" : "default"
+                      }
+                    },
+                    "filterConfigurations" : {
+                      "type" : "STATE_BINDING",
+                      "binding" : {
+                        "address" : [ "parFilters" ]
+                      }
+                    },
+                    "showGapPercentage" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "backgroundRefreshInterval" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "showDataPassthrough" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "endTime" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "enableDrilldown" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : true
+                    }
+                  },
+                  "eventMappings" : [ ],
+                  "slot" : null,
+                  "definition" : {
+                    "id" : "63f050cf050137731a828878839e0b33",
+                    "type" : "MACROPONENT"
+                  },
+                  "overrides" : null,
+                  "isHidden" : {
+                    "type" : "JSON_LITERAL",
+                    "value" : null
+                  },
+                  "isHero" : false,
+                  "extensionPoints" : [ ],
+                  "isNonDestructive" : false,
+                  "items" : [ ],
+                  "styles" : { }
+                }, {
+                  "elementId" : "single_score_2",
+                  "elementLabel" : "Single score 2",
+                  "propertyValues" : {
+                    "standardFormatData" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "showFilterIcon" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : true
+                    },
+                    "dateFormat" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : "default"
+                    },
+                    "showMaximumRange" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "scoreType" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "showFirstGroupAggregate" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showForecast" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showZero" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : true
+                    },
+                    "sortBy" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : "value"
+                    },
+                    "showTotalValue" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "dataSources" : {
+                      "type" : "LIST_CONTAINER",
+                      "container" : [ {
+                        "type" : "MAP_CONTAINER",
+                        "container" : {
+                          "isDatabaseView" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : false
+                          },
+                          "allowRealTime" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : true
+                          },
+                          "label" : {
+                            "type" : "TRANSLATION_LITERAL",
+                            "value" : {
+                              "code" : null,
+                              "message" : "UI Hungry",
+                              "comment" : ""
+                            }
+                          },
+                          "sourceType" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : "table"
+                          },
+                          "tableOrViewName" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : "u_ui_hungry"
+                          },
+                          "filterQuery" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : null
+                          },
+                          "reportSourceSysId" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : null
+                          },
+                          "id" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : "dGFibGV1X3VpX2h1bmdyeTE2OTU5MDI4NTY1NjM="
+                          },
+                          "dataCategories" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : [ "trend", "group", "simple" ]
+                          }
+                        }
+                      } ]
+                    },
+                    "period" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : "M"
+                    },
+                    "showChange" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "configVersion" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : "22.1.8"
+                    },
+                    "showSubAggregate" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showSecondGroupAggregate" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showMetricLabel" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "headingPosition" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : "top"
+                    },
+                    "showHeaderSeparator" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showSparkline" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showTarget" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "metrics" : {
+                      "type" : "LIST_CONTAINER",
+                      "container" : [ {
+                        "type" : "MAP_CONTAINER",
+                        "container" : {
+                          "dataSource" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : "dGFibGV1X3VpX2h1bmdyeTE2OTU5MDI4NTY1NjM="
+                          },
+                          "id" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : "ZEdGaWJHVjFYM1ZwWDJoMWJtZHllVEUyT1RVNU1ESTROVFkxTmpNPTE2OTU5MDI4NTc0MDY="
+                          },
+                          "aggregateFunction" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : "COUNT(DISTINCT"
+                          },
+                          "numberFormat" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : {
+                              "customFormat" : false
+                            }
+                          },
+                          "axisId" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : "primary"
+                          },
+                          "aggregateField" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : "u_category"
+                          }
+                        }
+                      } ]
+                    },
+                    "showChangeFrom" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "chartSize" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "headerTitle" : {
+                      "type" : "TRANSLATION_LITERAL",
+                      "value" : {
+                        "code" : null,
+                        "message" : "Categories",
+                        "comment" : ""
+                      }
+                    },
+                    "applyDateRange" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "formats" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "sortByOrder" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : "desc"
+                    },
+                    "showThreshold" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showScoreDate" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "description" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "trendBy" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "numberOfPeriods" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : 3
+                    },
+                    "groupBy" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "title" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "showTrend" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "enableRealTimeUpdate" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showScoreUpdateTime" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showForecastRange" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showAbsolutePeriod" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "dataCategory" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "scoreSize" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : "lg"
+                    },
+                    "followFilters" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : true
+                    },
+                    "useRelativeScoreTime" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "startTime" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "showTotalAggregate" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showChangePercentage" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showHeader" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : true
+                    },
+                    "bareBorder" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "dataPassthrough" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "showConfidenceBand" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showComment" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "refreshFrequency" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "wrapTitle" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showBorder" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : true
+                    },
+                    "colorConfig" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : {
+                        "type" : "default"
+                      }
+                    },
+                    "filterConfigurations" : {
+                      "type" : "STATE_BINDING",
+                      "binding" : {
+                        "address" : [ "parFilters" ]
+                      }
+                    },
+                    "showGapPercentage" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "backgroundRefreshInterval" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "showDataPassthrough" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "sparklineStyle" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : "area"
+                    },
+                    "endTime" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "enableDrilldown" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : true
+                    }
+                  },
+                  "eventMappings" : [ ],
+                  "slot" : null,
+                  "definition" : {
+                    "id" : "d24d53f60350de7a652caf3188a46ed2",
+                    "type" : "MACROPONENT"
+                  },
+                  "overrides" : null,
+                  "isHidden" : {
+                    "type" : "JSON_LITERAL",
+                    "value" : null
+                  },
+                  "isHero" : false,
+                  "extensionPoints" : [ ],
+                  "isNonDestructive" : false,
+                  "items" : [ ],
+                  "styles" : { }
+                }, {
+                  "elementId" : "single_score_3",
+                  "elementLabel" : "Pie",
+                  "propertyValues" : {
+                    "standardFormatData" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "showFilterIcon" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : true
+                    },
+                    "dateFormat" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : "default"
+                    },
+                    "showMaximumRange" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "scoreType" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "showFirstGroupAggregate" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showForecast" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "legendHorizontalAlignment" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : "center"
+                    },
+                    "truncationType" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : "end"
+                    },
+                    "showRegisterValue" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "sortBy" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : "value"
+                    },
+                    "showTotalValue" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "dataSources" : {
+                      "type" : "LIST_CONTAINER",
+                      "container" : [ {
+                        "type" : "MAP_CONTAINER",
+                        "container" : {
+                          "isDatabaseView" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : false
+                          },
+                          "allowRealTime" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : true
+                          },
+                          "label" : {
+                            "type" : "TRANSLATION_LITERAL",
+                            "value" : {
+                              "code" : null,
+                              "message" : "UI Hungry",
+                              "comment" : ""
+                            }
+                          },
+                          "sourceType" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : "table"
+                          },
+                          "tableOrViewName" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : "u_ui_hungry"
+                          },
+                          "filterQuery" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : "^RLQUERYu_list_item.u_item,&gt;=1^ENDRLQUERY"
+                          },
+                          "reportSourceSysId" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : null
+                          },
+                          "id" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : "dGFibGV1X3VpX2h1bmdyeTE2OTU5MDMwMzA2MzU="
+                          },
+                          "dataCategories" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : [ "trend", "group", "simple" ]
+                          }
+                        }
+                      } ]
+                    },
+                    "registerPosition" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : "bottom"
+                    },
+                    "period" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : "M"
+                    },
+                    "showChange" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "configVersion" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : "22.1.8"
+                    },
+                    "legendExpandToFit" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showSubAggregate" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showRegisterPercentage" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showRegisterOnSameLine" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "legendMaxItemWidth" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "showSecondGroupAggregate" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showMetricLabel" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showHeaderSeparator" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showSparkline" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showTarget" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showDataLabels" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : true
+                    },
+                    "metrics" : {
+                      "type" : "LIST_CONTAINER",
+                      "container" : [ {
+                        "type" : "MAP_CONTAINER",
+                        "container" : {
+                          "dataSource" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : "dGFibGV1X3VpX2h1bmdyeTE2OTU5MDMwMzA2MzU="
+                          },
+                          "id" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : "ZEdGaWJHVjFYM1ZwWDJoMWJtZHllVEUyT1RVNU1ETXdNekEyTXpVPTE2OTU5MDMwMzE1OTk="
+                          },
+                          "aggregateFunction" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : "COUNT"
+                          },
+                          "numberFormat" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : {
+                              "customFormat" : false
+                            }
+                          },
+                          "axisId" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : "primary"
+                          }
+                        }
+                      } ]
+                    },
+                    "showChangeFrom" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "registerOrientation" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : "horizontal"
+                    },
+                    "chartSize" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "headerTitle" : {
+                      "type" : "TRANSLATION_LITERAL",
+                      "value" : {
+                        "code" : null,
+                        "message" : "Favorites",
+                        "comment" : ""
+                      }
+                    },
+                    "applyDateRange" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "formats" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "sortByOrder" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : "desc"
+                    },
+                    "showThreshold" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "description" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "trendBy" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "numberOfPeriods" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : 3
+                    },
+                    "groupBy" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : [ {
+                        "maxNumberOfGroups" : 10,
+                        "numberOfGroupsBasedOn" : "NO_OF_GROUP_BASED_ON_PER_METRIC",
+                        "showOthers" : false,
+                        "hideZeroValues" : false,
+                        "groupBy" : [ {
+                          "dataSource" : "dGFibGV1X3VpX2h1bmdyeTE2OTU5MDMwMzA2MzU=",
+                          "groupByField" : "u_favorite",
+                          "isRange" : false,
+                          "isChoice" : false,
+                          "isPaBucket" : false
+                        } ],
+                        "disableRanges" : false
+                      } ]
+                    },
+                    "title" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "showTrend" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "enableRealTimeUpdate" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showRegister" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : true
+                    },
+                    "showForecastRange" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showAbsolutePeriod" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "dataCategory" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "dataLabelsType" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : "both"
+                    },
+                    "followFilters" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : true
+                    },
+                    "startTime" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "showTotalAggregate" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showChangePercentage" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "maxLabelSize" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "showHeader" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : true
+                    },
+                    "bareBorder" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "dataPassthrough" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "showConfidenceBand" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showComment" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "refreshFrequency" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "wrapTitle" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "showBorder" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : true
+                    },
+                    "colorConfig" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : {
+                        "type" : "default"
+                      }
+                    },
+                    "filterConfigurations" : {
+                      "type" : "STATE_BINDING",
+                      "binding" : {
+                        "address" : [ "parFilters" ]
+                      }
+                    },
+                    "showGapPercentage" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "backgroundRefreshInterval" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "showDataPassthrough" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "endTime" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    },
+                    "enableDrilldown" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : true
+                    }
+                  },
+                  "eventMappings" : [ ],
+                  "slot" : null,
+                  "definition" : {
+                    "id" : "96abe7e38d8790718022c5630a92176c",
+                    "type" : "MACROPONENT"
+                  },
+                  "overrides" : null,
+                  "isHidden" : {
+                    "type" : "JSON_LITERAL",
+                    "value" : null
+                  },
+                  "isHero" : false,
+                  "extensionPoints" : [ ],
+                  "isNonDestructive" : false,
+                  "items" : [ ],
+                  "styles" : { }
+                } ],
+                "layout" : {
+                  "default" : {
+                    "children" : null,
+                    "isInline" : null,
+                    "items" : [{"element_id":"single_score_1","styles":{"height":"250px"}},{"element_id":"single_score_2","styles":{"margin":"var(--now-static-space--lg)","padding":"var(--now-static-space--lg)"}},{"element_id":"single_score_3","styles":{"height":"250px"}}],
+                    "root" : null,
+                    "rules" : null,
+                    "styles" : {"flex-direction":"column","display":"grid","grid-template-columns":"1fr 1fr 1fr","grid-template-rows":"1fr","grid-auto-rows":"1fr","grid-auto-columns":"1fr"},
+                    "templateId" : "5832fd4d53c31010e6bcddeeff7b12db",
+                    "type" : "grid"
+                  },
+                  "version" : "3.0.0"
+                }
+              },
+              "isHidden" : {
+                "type" : "JSON_LITERAL",
+                "value" : null
+              },
+              "isHero" : false,
+              "extensionPoints" : [ ],
+              "isNonDestructive" : false,
+              "items" : [ ],
+              "styles" : {
+                "width" : "100%",
+                "align-self" : "center"
+              }
+            }, {
+              "elementId" : "container_3",
+              "elementLabel" : "Container 3",
+              "propertyValues" : {
+                "ariaRegionHeadingLevel" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : "1"
+                },
+                "hideEmptyStateUi" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : true
+                },
+                "ariaRegionName" : {
+                  "type" : "TRANSLATION_LITERAL",
+                  "value" : {
+                    "code" : null,
+                    "message" : "",
+                    "comment" : ""
+                  }
+                },
+                "includeAriaHeading" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : false
+                },
+                "type" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : "section"
+                },
+                "ariaRole" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : ""
+                }
+              },
+              "eventMappings" : [ ],
+              "slot" : null,
+              "definition" : {
+                "id" : "d356d14b6e293a3020a244b63d278d8f",
+                "type" : "MACROPONENT"
+              },
+              "overrides" : {
+                "composition" : [ {
+                  "elementId" : "image_4",
+                  "elementLabel" : "Image 4",
+                  "propertyValues" : {
+                    "fit" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : "fill"
+                    },
+                    "src" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : "/x_1027698_magdas_0.grocery_background.png"
+                    },
+                    "alt" : {
+                      "type" : "TRANSLATION_LITERAL",
+                      "value" : {
+                        "code" : null,
+                        "message" : "",
+                        "comment" : ""
+                      }
+                    },
+                    "position" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : "center center"
+                    },
+                    "height" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    }
+                  },
+                  "eventMappings" : [ ],
+                  "slot" : "",
+                  "definition" : {
+                    "id" : "15fe506403f8a98575b6df59008ea8f1",
+                    "type" : "MACROPONENT"
+                  },
+                  "overrides" : null,
+                  "isHidden" : {
+                    "type" : "JSON_LITERAL",
+                    "value" : null
+                  },
+                  "isHero" : false,
+                  "extensionPoints" : [ ],
+                  "isNonDestructive" : false,
+                  "items" : [ ],
+                  "styles" : { }
+                } ],
+                "layout" : {
+                  "default" : {
+                    "children" : null,
+                    "isInline" : null,
+                    "items" : [{"element_id":"image_4","styles":{"align-self":"center"}}],
+                    "root" : null,
+                    "rules" : null,
+                    "styles" : {"flex-direction":"column"},
+                    "templateId" : "5832fd4d53c31010e6bcddeeff7b12db",
+                    "type" : "flex"
+                  },
+                  "version" : "3.0.0"
+                }
+              },
+              "isHidden" : {
+                "type" : "JSON_LITERAL",
+                "value" : null
+              },
+              "isHero" : false,
+              "extensionPoints" : [ ],
+              "isNonDestructive" : false,
+              "items" : [ ],
+              "styles" : {
+                "width" : "100%"
+              }
+            } ],
+            "layout" : {
+              "default" : {
+                "children" : null,
+                "isInline" : null,
+                "items" : [{"element_id":"container_3","styles":{}},{"element_id":"container_2","styles":{}}],
+                "root" : null,
+                "rules" : null,
+                "styles" : {"flex-direction":"column"},
+                "templateId" : "5832fd4d53c31010e6bcddeeff7b12db",
+                "type" : "flex"
+              },
+              "version" : "3.0.0"
+            }
+          },
+          "isHidden" : {
+            "type" : "JSON_LITERAL",
+            "value" : null
+          },
+          "isHero" : false,
+          "extensionPoints" : [ ],
+          "isNonDestructive" : false,
+          "items" : [ ],
+          "styles" : {
+            "width" : "100%"
+          }
+        }, {
+          "elementId" : "clnddffggseecaaccfdddffhhxkeehhbybbahh",
+          "elementLabel" : "Healthy Food",
+          "propertyValues" : {
+            "ariaRegionHeadingLevel" : {
+              "type" : "JSON_LITERAL",
+              "value" : "1"
+            },
+            "hideEmptyStateUi" : {
+              "type" : "JSON_LITERAL",
+              "value" : true
+            },
+            "ariaRegionName" : {
+              "type" : "TRANSLATION_LITERAL",
+              "value" : {
+                "code" : null,
+                "message" : "",
+                "comment" : ""
+              }
+            },
+            "includeAriaHeading" : {
+              "type" : "JSON_LITERAL",
+              "value" : false
+            },
+            "type" : {
+              "type" : "JSON_LITERAL",
+              "value" : "section"
+            },
+            "ariaRole" : {
+              "type" : "JSON_LITERAL",
+              "value" : ""
+            }
+          },
+          "eventMappings" : [ ],
+          "slot" : "cln356s4102fc357x8fqpv443",
+          "definition" : {
+            "id" : "d356d14b6e293a3020a244b63d278d8f",
+            "type" : "MACROPONENT"
+          },
+          "overrides" : {
+            "composition" : [ {
+              "elementId" : "image_3",
+              "elementLabel" : "Image 3",
+              "propertyValues" : {
+                "fit" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : "fill"
+                },
+                "src" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : "x_1027698_magdas_0.healthy_food1.png"
+                },
+                "alt" : {
+                  "type" : "TRANSLATION_LITERAL",
+                  "value" : {
+                    "code" : null,
+                    "message" : "",
+                    "comment" : ""
+                  }
+                },
+                "position" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : "center center"
+                },
+                "height" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : null
+                }
+              },
+              "eventMappings" : [ ],
+              "slot" : null,
+              "definition" : {
+                "id" : "15fe506403f8a98575b6df59008ea8f1",
+                "type" : "MACROPONENT"
+              },
+              "overrides" : null,
+              "isHidden" : {
+                "type" : "JSON_LITERAL",
+                "value" : null
+              },
+              "isHero" : false,
+              "extensionPoints" : [ ],
+              "isNonDestructive" : false,
+              "items" : [ ],
+              "styles" : { }
+            }, {
+              "elementId" : "rich_text_1",
+              "elementLabel" : "Rich text 1",
+              "propertyValues" : {
+                "html" : {
+                  "type" : "TRANSLATION_LITERAL",
+                  "value" : {
+                    "code" : null,
+                    "message" : "&lt;p&gt;It is vital to have awareness of the most healthful foods to ensure a wide a range of nutrients in the diet.&lt;/p&gt;\n&lt;p&gt;A balanced diet is the secret to healthful eating. This article will cover the 15 most healthful foods and their benefits.&lt;/p&gt;\n&lt;div&gt;\n&lt;div&gt;&lt;span style=\"font-size: 14pt;\"&gt;&lt;strong&gt;Nuts, pulses, and grains&lt;/strong&gt;&lt;/span&gt;&lt;/div&gt;\n&lt;p&gt;Nuts, pulses, and grains are all highly nutritious. The following are some of the most healthful:&lt;/p&gt;\n&lt;h3&gt;1. Almonds&lt;/h3&gt;\n&lt;p&gt;Almonds provide plenty of nutrients,&amp;nbsp;&lt;a href=\"https://fdc.nal.usda.gov/fdc-app.html#/food-details/339418/nutrients\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;includingTrusted Source&lt;/a&gt;:&lt;/p&gt;\n&lt;ul style=\"list-style-position: inside;\"&gt;\n&lt;li&gt;&lt;a title=\"Why do we need magnesium?\" href=\"https://www.medicalnewstoday.com/articles/286839.php\" rel=\"nofollow\"&gt;magnesium&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a title=\"What are vitamins, and how do they work?\" href=\"https://www.medicalnewstoday.com/articles/195878.php\" rel=\"nofollow\"&gt;vitamin&lt;/a&gt;&amp;nbsp;E&lt;/li&gt;\n&lt;li&gt;iron&lt;/li&gt;\n&lt;li&gt;&lt;a title=\"Benefits and sources of calcium\" href=\"https://www.medicalnewstoday.com/articles/248958.php\" rel=\"nofollow\"&gt;calcium&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;fiber&lt;/li&gt;\n&lt;li&gt;riboflavin&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;One&amp;nbsp;&lt;a href=\"https://www.ncbi.nlm.nih.gov/pubmed/31243439\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;2019 meta-analysisTrusted Source&lt;/a&gt;&amp;nbsp;found that consuming almonds significantly reduced total&amp;nbsp;&lt;a title=\"What causes high cholesterol?\" href=\"https://www.medicalnewstoday.com/articles/9152.php\" rel=\"nofollow\"&gt;cholesterol&lt;/a&gt;&amp;nbsp;levels.&lt;/p&gt;\n&lt;h3&gt;2. Brazil nuts&lt;/h3&gt;\n&lt;p&gt;Brazil nuts (&lt;em&gt;Bertholletia excelsa&lt;/em&gt;) are some of the most healthful nuts available.&lt;/p&gt;\n&lt;p&gt;They are&amp;nbsp;&lt;a href=\"https://fdc.nal.usda.gov/fdc-app.html#/food-details/339423/nutrients\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;an excellent sourceTrusted Source&lt;/a&gt;&amp;nbsp;of both protein and&amp;nbsp;&lt;a title=\"What you need to know about carbs\" href=\"https://www.medicalnewstoday.com/articles/161547.php\" rel=\"nofollow\"&gt;carbohydrates&lt;/a&gt;, and they also provide good amounts of vitamin B-1, vitamin E, magnesium, and zinc.&lt;/p&gt;\n&lt;p&gt;Brazil nuts also contain more&amp;nbsp;&lt;a title=\"Selenium: What it does and how much you need\" href=\"https://www.medicalnewstoday.com/articles/287842.php\" rel=\"nofollow\"&gt;selenium&lt;/a&gt;&amp;nbsp;than many other foods. Selenium is a vital mineral for maintaining&amp;nbsp;&lt;a href=\"https://ods.od.nih.gov/factsheets/Selenium-Consumer/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;thyroid functionTrusted Source&lt;/a&gt;, and it is a great&amp;nbsp;&lt;a title=\"How can antioxidants benefit our health?\" href=\"https://www.medicalnewstoday.com/articles/301506.php\" rel=\"nofollow\"&gt;antioxidant&lt;/a&gt;&amp;nbsp;for the human body.&lt;/p&gt;\n&lt;p&gt;These nuts come in a hard shell and are usually available ready to eat, making them a quick, nutritious snack.&lt;/p&gt;\n&lt;p&gt;&lt;a href=\"https://www.medicalnewstoday.com/articles/325000.php\" rel=\"nofollow\"&gt;Learn more about Brazil nuts here.&lt;/a&gt;&lt;/p&gt;\n&lt;h3&gt;3. Lentils&lt;/h3&gt;\n&lt;p&gt;A lentil is a&amp;nbsp;&lt;a title=\"What is the pulse and how do I check it?\" href=\"https://www.medicalnewstoday.com/articles/258118.php\" rel=\"nofollow\"&gt;pulse&lt;/a&gt;&amp;nbsp;that features prominently in many food cultures around the world, including those of Pakistan, Nepal, Bangladesh, India, Bhutan, and Sri Lanka.&lt;/p&gt;\n&lt;p&gt;Lentils provide&amp;nbsp;&lt;a href=\"https://fdc.nal.usda.gov/fdc-app.html#/food-details/172420/nutrients\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;good amountsTrusted Source&lt;/a&gt;&amp;nbsp;of fiber, magnesium, and&amp;nbsp;&lt;a title=\"Everything you need to know about potassium\" href=\"https://www.medicalnewstoday.com/articles/287212.php\" rel=\"nofollow\"&gt;potassium&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;They tend to require a long cooking time. However, manufacturers can sprout the seeds, making them a delicious, healthful, ready-to-eat snack.&lt;/p&gt;\n&lt;p&gt;Adding a container of sprouted lentils to a lunchbox or picnic basket, perhaps with some chili powder or pepper for flavoring, makes for a delicious and healthful snack.&lt;/p&gt;\n&lt;p&gt;&lt;a href=\"https://www.medicalnewstoday.com/articles/297638.php\" rel=\"nofollow\"&gt;Learn more about the health benefits of lentils here.&lt;/a&gt;&lt;/p&gt;\n&lt;h3&gt;4. Oatmeal&lt;/h3&gt;\n&lt;p&gt;Interest in oatmeal has increased considerably during the past 20 years because of its health benefits.&lt;/p&gt;\n&lt;p&gt;In 1997, the&amp;nbsp;&lt;a href=\"https://www.govinfo.gov/content/pkg/FR-1997-03-31/pdf/97-7972.pdf\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;Food and Drug Administration&lt;/a&gt;&amp;nbsp;(FDA) agreed that foods with high levels of rolled oats or oat bran could include data on the label about their cardiovascular health benefits as part of a low fat diet. This led to a surge in oatmeal&amp;rsquo;s popularity.&lt;/p&gt;\n&lt;p&gt;Research has found that the cereal&amp;rsquo;s soluble fiber content helps&amp;nbsp;&lt;a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6395719/#__ffn_sectitle\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;lower cholesterol levelsTrusted Source&lt;/a&gt;&amp;nbsp;and reduce cardiovascular risk factors.&lt;/p&gt;\n&lt;p&gt;Oats contain complex carbohydrates, as well as water-soluble fiber. These slow down digestion and help stabilize levels of blood glucose. Oatmeal is also a&amp;nbsp;&lt;a href=\"https://fdc.nal.usda.gov/fdc-app.html#/food-details/340444/nutrients\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;good sourceTrusted Source&lt;/a&gt;&amp;nbsp;of&amp;nbsp;&lt;a title=\"Why is folate good for you?\" href=\"https://www.medicalnewstoday.com/articles/287677.php\" rel=\"nofollow\"&gt;folate&lt;/a&gt;&amp;nbsp;and potassium.&lt;/p&gt;\n&lt;p&gt;People can make oatmeal from rolled or ground oats. Coarse or steel-cut oats contain more fiber than instant varieties.&lt;/p&gt;\n&lt;h3&gt;5. Wheat germ&lt;/h3&gt;\n&lt;p&gt;Wheat germ is the part of wheat that grows into a plant. It is essentially the embryo of a seed. Germ, along with bran, is a byproduct of milling. Refining cereals often removes the germ and bran content.&lt;/p&gt;\n&lt;p&gt;Whole grain products, however, still contain the germ and bran. This makes them a more healthful choice.&lt;/p&gt;\n&lt;p&gt;Wheat germ is high in several vital nutrients, including:&lt;/p&gt;\n&lt;ul style=\"list-style-position: inside;\"&gt;\n&lt;li&gt;fiber&lt;/li&gt;\n&lt;li&gt;vitamin E&lt;/li&gt;\n&lt;li&gt;&lt;a title=\"What to know about folic acid\" href=\"https://www.medicalnewstoday.com/articles/219853.php\" rel=\"nofollow\"&gt;folic acid&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;thiamin&lt;/li&gt;\n&lt;li&gt;zinc&lt;/li&gt;\n&lt;li&gt;magnesium&lt;/li&gt;\n&lt;li&gt;phosphorus&lt;/li&gt;\n&lt;li&gt;fatty alcohols&lt;/li&gt;\n&lt;li&gt;essential fatty acids&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div id=\"m24436233-2dc2-4dea-8cb9-c130c0bc208bmpd_firstQuarter_704c7093-50ac-4e58-89e9-d67e4770717c\"&gt;\n&lt;div&gt;\n&lt;div&gt;\n&lt;div&gt;\n&lt;div&gt;\n&lt;div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;div&gt;\n&lt;div&gt;&lt;strong&gt;&lt;span style=\"font-size: 14pt;\"&gt;Fruits, vegetables, and berries&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;\n&lt;p&gt;Fruits, vegetables, and berries are easy to incorporate into the diet. The following are some of the most healthful:&lt;/p&gt;\n&lt;h3&gt;6. Broccoli&lt;/h3&gt;\n&lt;p&gt;Broccoli provides&amp;nbsp;&lt;a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6356358/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;good amountsTrusted Source&lt;/a&gt;&amp;nbsp;of fiber, calcium, potassium, folate, and phytonutrients. Phytonutrients are compounds that reduce the risk of developing&amp;nbsp;&lt;a title=\"Everything you need to know about heart disease\" href=\"https://www.medicalnewstoday.com/articles/237191.php\" rel=\"nofollow\"&gt;heart disease&lt;/a&gt;,&amp;nbsp;&lt;a title=\"What is Diabetes?\" href=\"https://www.medicalnewstoday.com/info/diabetes/\" rel=\"nofollow\"&gt;diabetes&lt;/a&gt;, and some&amp;nbsp;&lt;a title=\"What is Cancer?\" href=\"https://www.medicalnewstoday.com/info/cancer-oncology/\" rel=\"nofollow\"&gt;cancers&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;Broccoli also provides essential antioxidants such as vitamin C and&amp;nbsp;&lt;a title=\"All you need to know about beta carotene\" href=\"https://www.medicalnewstoday.com/articles/252758.php\" rel=\"nofollow\"&gt;beta-carotene&lt;/a&gt;. In fact, a single half-cup serving of broccoli can provide around&amp;nbsp;&lt;a href=\"https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;85%Trusted Source&lt;/a&gt;&amp;nbsp;of a person&amp;rsquo;s daily vitamin C value.&lt;/p&gt;\n&lt;p&gt;Another compound in broccoli, called sulforaphane, may have anticancer and anti-inflammatory qualities, according to&amp;nbsp;&lt;a href=\"https://www.ncbi.nlm.nih.gov/pubmed/31044154\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;one 2019 studyTrusted Source&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;However, overcooking broccoli can destroy many of its key nutrients. For this reason, it is best to eat it raw or lightly steamed.&lt;/p&gt;\n&lt;p&gt;&lt;a href=\"https://www.medicalnewstoday.com/articles/266765.php\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;Learn more about the nutritional impact of broccoli here.&lt;/a&gt;&lt;/p&gt;\n&lt;h3&gt;7. Apples&lt;/h3&gt;\n&lt;p&gt;Apples are an excellent source of antioxidants, which combat free radicals. Free radicals are damaging substances that the body generates. They cause undesirable changes in the body and may contribute to chronic conditions, as well as the aging process.&lt;/p&gt;\n&lt;p&gt;However,&amp;nbsp;&lt;a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3714114/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;some studiesTrusted Source&lt;/a&gt;&amp;nbsp;have suggested that an antioxidant in apples might extend a person&amp;rsquo;s life span and reduce the risk of chronic disease.&lt;/p&gt;\n&lt;p&gt;&lt;a href=\"https://www.medicalnewstoday.com/articles/267290.php\" rel=\"nofollow\"&gt;Learn more about apples here.&lt;/a&gt;&lt;/p&gt;\n&lt;h3&gt;8. Kale&lt;/h3&gt;\n&lt;p&gt;&lt;a title=\"What are the health benefits of kale?\" href=\"https://www.medicalnewstoday.com/articles/270435.php\" rel=\"nofollow\"&gt;Kale&lt;/a&gt;&amp;nbsp;is a leafy green vegetable that offers a wide range of different nutrients. For example, this powerfully nutritious plant is an&amp;nbsp;&lt;a href=\"https://fdc.nal.usda.gov/fdc-app.html#/food-details/168421/nutrients\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;excellent sourceTrusted Source&lt;/a&gt;&amp;nbsp;of vitamins C and K.&lt;/p&gt;\n&lt;p&gt;People can cook or steam kale. They can also blend it into smoothies or juices for a nutritional kick.&lt;/p&gt;\n&lt;p&gt;&lt;a href=\"https://www.medicalnewstoday.com/articles/270435.php\" rel=\"nofollow\"&gt;Learn more about how to include kale in the diet here.&lt;/a&gt;&lt;/p&gt;\n&lt;h3&gt;9. Blueberries&lt;/h3&gt;\n&lt;p&gt;&lt;a title=\"Everything you need to know about blueberries\" href=\"https://www.medicalnewstoday.com/articles/287710.php\" rel=\"nofollow\"&gt;Blueberries&lt;/a&gt;&amp;nbsp;provide substantial amounts of fiber, antioxidants, and phytonutrients. Unlike minerals and vitamins, phytonutrients are not essential for survival. However, they may help prevent disease and maintain vital bodily functions.&lt;/p&gt;\n&lt;p&gt;In&amp;nbsp;&lt;a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6683271/#__ffn_sectitle\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;a 2019 reviewTrusted Source&lt;/a&gt;&amp;nbsp;of 16 studies, the authors suggest that consuming blueberries may help protect against cognitive decline, which may help reduce the risk of&amp;nbsp;&lt;a title=\"What to know about Alzheimer's disease\" href=\"https://www.medicalnewstoday.com/articles/159442.php\" rel=\"nofollow\"&gt;Alzheimer&amp;rsquo;s disease&lt;/a&gt;. They also found that blueberries might help prevent cardiovascular disease.&lt;/p&gt;\n&lt;p&gt;Another&amp;nbsp;&lt;a href=\"https://www.ncbi.nlm.nih.gov/pubmed/30471564\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;2019 studyTrusted Source&lt;/a&gt;, this time in mice, found that blueberry polyphenols reduced&amp;nbsp;&lt;a title=\"How Much Should I Weigh?\" href=\"https://www.medicalnewstoday.com/info/obesity/how-much-should-i-weigh.php\" rel=\"nofollow\"&gt;obesity&lt;/a&gt;&amp;nbsp;and certain metabolic risk factors. They also improved the composition of gut bacteria.&lt;/p&gt;\n&lt;p&gt;According to&amp;nbsp;&lt;a href=\"https://www.ncbi.nlm.nih.gov/pubmed/25578927\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;a 2015 clinical trialTrusted Source&lt;/a&gt;, eating 22 grams of freeze dried blueberries every day for 8 weeks led to a significant decrease in&amp;nbsp;&lt;a title=\"What is a normal blood pressure?\" href=\"https://www.medicalnewstoday.com/articles/270644.php\" rel=\"nofollow\"&gt;blood pressure&lt;/a&gt;&amp;nbsp;among women with stage 1&amp;nbsp;&lt;a title=\"Everything you need to know about hypertension\" href=\"https://www.medicalnewstoday.com/articles/150109.php\" rel=\"nofollow\"&gt;hypertension&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;&lt;a href=\"https://www.medicalnewstoday.com/articles/287710.php\" rel=\"nofollow\"&gt;Discover the nutritional power of blueberries.&lt;/a&gt;&lt;/p&gt;\n&lt;h3&gt;10. Avocados&lt;/h3&gt;\n&lt;p&gt;Some people avoid consuming avocados due to their high fat content. However, avocados&amp;nbsp;&lt;a href=\"https://fdc.nal.usda.gov/fdc-app.html#/food-details/341528/nutrients\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;provide healthful fatsTrusted Source&lt;/a&gt;, as well as B vitamins, vitamin K, and vitamin E. Avocados are also a good source of fiber.&lt;/p&gt;\n&lt;p&gt;In&amp;nbsp;&lt;a href=\"https://www.ncbi.nlm.nih.gov/pubmed/29635493\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;one 2018 reviewTrusted Source&lt;/a&gt;&amp;nbsp;of studies, avocados increased levels of high-density lipoprotein, or &amp;ldquo;good,&amp;rdquo; cholesterol. This type of cholesterol removes more harmful cholesterol from the bloodstream.&lt;/p&gt;\n&lt;p&gt;Avocados might also have anticancer properties.&amp;nbsp;&lt;a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6507236/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;A 2019 test tube studyTrusted Source&lt;/a&gt;&amp;nbsp;of avocados showed that colored avocado seed extract reduced the viability of breast, colon, and&amp;nbsp;&lt;a title=\"What to know about prostate cancer\" href=\"https://www.medicalnewstoday.com/articles/150086.php\" rel=\"nofollow\"&gt;prostate cancer&lt;/a&gt;&amp;nbsp;cells. However, the study did not indicate whether or not the effects would be the same in humans.&lt;/p&gt;\n&lt;p&gt;Avocados may also have associations with improved nutrient absorption, better overall diet, and fewer metabolic risk factors, according to&amp;nbsp;&lt;a href=\"https://nutritionj.biomedcentral.com/articles/10.1186/1475-2891-12-1\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;one 2013 studyTrusted Source&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;&lt;a href=\"https://www.medicalnewstoday.com/articles/318620.php\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;Avocados are highly nutritious and very filling. Learn more about them here.&lt;/a&gt;&lt;/p&gt;\n&lt;h3&gt;11. Leafy green vegetables&lt;/h3&gt;\n&lt;p&gt;One&amp;nbsp;&lt;a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6413025/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;2019 studyTrusted Source&lt;/a&gt;&amp;nbsp;in rats showed that consuming leafy greens for 6 weeks led to a significant reduction in cardiovascular risk factors.&lt;/p&gt;\n&lt;p&gt;Spinach is an example of a leafy green with antioxidant content, especially when it is raw, steamed, or very lightly boiled. It is a good source of&amp;nbsp;&lt;a href=\"https://fdc.nal.usda.gov/fdc-app.html#/food-details/342205/nutrients\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;the following nutrientsTrusted Source&lt;/a&gt;:&lt;/p&gt;\n&lt;ul style=\"list-style-position: inside;\"&gt;\n&lt;li&gt;vitamins A, B-6, C, E, and K&lt;/li&gt;\n&lt;li&gt;selenium&lt;/li&gt;\n&lt;li&gt;niacin&lt;/li&gt;\n&lt;li&gt;zinc&lt;/li&gt;\n&lt;li&gt;phosphorus&lt;/li&gt;\n&lt;li&gt;&lt;a title=\"Health benefits and risks of copper\" href=\"https://www.medicalnewstoday.com/articles/288165.php\" rel=\"nofollow\"&gt;copper&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;potassium&lt;/li&gt;\n&lt;li&gt;calcium&lt;/li&gt;\n&lt;li&gt;manganese&lt;/li&gt;\n&lt;li&gt;betaine&lt;/li&gt;\n&lt;li&gt;iron&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Learn about the many benefits of spinach here.&lt;/p&gt;\n&lt;h3&gt;12. Sweet potatoes&lt;/h3&gt;\n&lt;p&gt;Sweet potatoes provide dietary fiber, vitamin A, vitamin C, vitamin B-6, and potassium.&lt;/p&gt;\n&lt;p&gt;The&amp;nbsp;&lt;a href=\"https://cspinet.org/eating-healthy/what-eat/10-best-foods\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;Center for Science in the Public Interest&lt;/a&gt;&amp;nbsp;compared the nutritional value of sweet potatoes with that of several other vegetables.&lt;/p&gt;\n&lt;p&gt;Sweet potatoes ranked number one for their vitamin A, vitamin C, iron, calcium, protein, and complex carbohydrate content.&lt;/p&gt;\n&lt;/div&gt;\n&lt;div&gt;\n&lt;div&gt;&lt;span style=\"font-size: 14pt;\"&gt;&lt;strong&gt;Fish, meat, and eggs&lt;/strong&gt;&lt;/span&gt;&lt;/div&gt;\n&lt;p&gt;When it comes to fish, meat, and eggs, many healthful options are available. For example:&lt;/p&gt;\n&lt;h3&gt;13. Oily fish&lt;/h3&gt;\n&lt;p&gt;Some examples of oily fish include salmon, trout, mackerel, herring, sardines, and anchovies. These types of fish have oil in their tissues and around their gut.&lt;/p&gt;\n&lt;p&gt;Their lean fillets contain&amp;nbsp;&lt;a href=\"https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;high levels of omega-3 fatty acidsTrusted Source&lt;/a&gt;. These oils may provide benefits for the heart and nervous system, according to the Office of Dietary Supplements (ODS).&lt;/p&gt;\n&lt;p&gt;The ODS also suggest that&amp;nbsp;&lt;a title=\"Can fish oils and omega-3 oils benefit our health?\" href=\"https://www.medicalnewstoday.com/articles/40253.php\" rel=\"nofollow\"&gt;omega-3&lt;/a&gt;&amp;nbsp;fatty acids can help with inflammatory conditions such as&amp;nbsp;&lt;a title=\"What are the causes and types of arthritis?\" href=\"https://www.medicalnewstoday.com/articles/7621.php\" rel=\"nofollow\"&gt;arthritis&lt;/a&gt;. They are also plentiful in vitamins A and D.&lt;/p&gt;\n&lt;p&gt;One&amp;nbsp;&lt;a href=\"https://ard.bmj.com/content/73/11/1949.short\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;2014 study&lt;/a&gt;&amp;nbsp;suggested that fatty acids can significantly reduce the risk of&amp;nbsp;&lt;a title=\"What is Rheumatoid Arthritis?\" href=\"https://www.medicalnewstoday.com/info/rheumatoid-arthritis/\" rel=\"nofollow\"&gt;rheumatoid arthritis&lt;/a&gt;.&lt;/p&gt;\n&lt;h3&gt;14. Chicken&lt;/h3&gt;\n&lt;p&gt;Chicken is a cost effective and healthful meat. Free-range chicken serves as an excellent source of protein.&lt;/p&gt;\n&lt;p&gt;However, it is important to remember that preparation and cooking methods affect how healthful chicken is. This means that people should limit their intake of deep-fried chicken and always remove the skin before consumption. Chicken skin has high levels of saturated fat.&lt;/p&gt;\n&lt;h3&gt;15. Eggs&lt;/h3&gt;\n&lt;p&gt;Eggs are another source of protein that people can easily incorporate into a balanced diet, as they are highly versatile.&lt;/p&gt;\n&lt;p&gt;Eggs contain vitamins&amp;nbsp;&lt;a href=\"https://fdc.nal.usda.gov/fdc-app.html#/food-details/339005/nutrients\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;includingTrusted Source&lt;/a&gt;&amp;nbsp;B-2 and B-12, both of which are important for preserving energy and generating red blood cells. Eggs are also a good source of the essential amino acid leucine, which plays a role in stimulating muscle protein synthesis. Eggs also provide a good amount of choline, which is important for cell membranes.&lt;/p&gt;\n&lt;p&gt;The yolk contains most of the egg&amp;rsquo;s vitamins and minerals, as well as the fat and cholesterol. However,&amp;nbsp;&lt;a href=\"https://www.ncbi.nlm.nih.gov/pubmed/28504636\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;one 2017 reviewTrusted Source&lt;/a&gt;&amp;nbsp;found that eating up to seven eggs per week does not increase the risk of heart disease. That said, the authors mention that people with cardiovascular disease or diabetes should seek medical consultation about including eggs in the diet.&lt;/p&gt;\n&lt;p&gt;Indeed,&amp;nbsp;&lt;a href=\"https://jamanetwork.com/journals/jama/fullarticle/2728487\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;one studyTrusted Source&lt;/a&gt;&amp;nbsp;found higher rates of cardiovascular disease in people who consumed more cholesterol from eggs.&lt;/p&gt;\n&lt;p&gt;Consuming fat in moderate amounts is healthful as part of a balanced, nutritious diet.&lt;/p&gt;\n&lt;/div&gt;",
+                    "comment" : ""
+                  }
+                }
+              },
+              "eventMappings" : [ ],
+              "slot" : null,
+              "definition" : {
+                "id" : "2d56f06d55f46bbd4e79b5e624beb940",
+                "type" : "MACROPONENT"
+              },
+              "overrides" : null,
+              "isHidden" : {
+                "type" : "JSON_LITERAL",
+                "value" : null
+              },
+              "isHero" : false,
+              "extensionPoints" : [ ],
+              "isNonDestructive" : false,
+              "items" : [ ],
+              "styles" : { }
+            }, {
+              "elementId" : "stylized_text_1",
+              "elementLabel" : "Stylized text 1",
+              "propertyValues" : {
+                "css" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : "* { }"
+                },
+                "text" : {
+                  "type" : "TRANSLATION_LITERAL",
+                  "value" : {
+                    "code" : null,
+                    "message" : "What are the most healthy foods?\n",
+                    "comment" : ""
+                  }
+                },
+                "tag" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : "h1"
+                }
+              },
+              "eventMappings" : [ ],
+              "slot" : null,
+              "definition" : {
+                "id" : "4335ba6dca80378f7ba7a67cd6667bec",
+                "type" : "MACROPONENT"
+              },
+              "overrides" : null,
+              "isHidden" : {
+                "type" : "JSON_LITERAL",
+                "value" : null
+              },
+              "isHero" : false,
+              "extensionPoints" : [ ],
+              "isNonDestructive" : false,
+              "items" : [ ],
+              "styles" : { }
+            }, {
+              "elementId" : "stylized_text_2",
+              "elementLabel" : "Stylized text 2",
+              "propertyValues" : {
+                "css" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : "* { }"
+                },
+                "text" : {
+                  "type" : "TRANSLATION_LITERAL",
+                  "value" : {
+                    "code" : null,
+                    "message" : "This article lists the 15 foods that sources and studies across the United States and Western Europe deem the most healthy. They include nuts, lentils, apples, broccoli, oatmeal, and eggs.",
+                    "comment" : ""
+                  }
+                },
+                "tag" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : "h4"
+                }
+              },
+              "eventMappings" : [ ],
+              "slot" : null,
+              "definition" : {
+                "id" : "4335ba6dca80378f7ba7a67cd6667bec",
+                "type" : "MACROPONENT"
+              },
+              "overrides" : null,
+              "isHidden" : {
+                "type" : "JSON_LITERAL",
+                "value" : null
+              },
+              "isHero" : false,
+              "extensionPoints" : [ ],
+              "isNonDestructive" : false,
+              "items" : [ ],
+              "styles" : { }
+            } ],
+            "layout" : {
+              "default" : {
+                "children" : null,
+                "isInline" : null,
+                "items" : [{"element_id":"stylized_text_1","styles":{"align-self":"center"}},{"element_id":"stylized_text_2","styles":{"align-self":"flex-start","padding":"var(--now-static-space--lg)"}},{"element_id":"image_3","styles":{}},{"element_id":"rich_text_1","styles":{"align-self":"flex-start","margin":"var(--now-static-space--lg)"}}],
+                "root" : null,
+                "rules" : null,
+                "styles" : {"flex-direction":"column"},
+                "templateId" : "5832fd4d53c31010e6bcddeeff7b12db",
+                "type" : "flex"
+              },
+              "version" : "3.0.0"
+            }
+          },
+          "isHidden" : {
+            "type" : "JSON_LITERAL",
+            "value" : null
+          },
+          "isHero" : false,
+          "extensionPoints" : [ ],
+          "isNonDestructive" : false,
+          "items" : [ ],
+          "styles" : {
+            "width" : "100%"
+          }
+        } ],
+        "layout" : null
+      },
+      "isHidden" : {
+        "type" : "JSON_LITERAL",
+        "value" : null
+      },
+      "isHero" : false,
+      "extensionPoints" : [ ],
+      "isNonDestructive" : false,
+      "items" : [ {
+        "conditional" : {
+          "type" : "JSON_LITERAL",
+          "value" : null
+        },
+        "extensionPoint" : null,
+        "icon" : "shopping-cart-full-outline",
+        "id" : "cln354rih02f8357x7h57lnny",
+        "label" : {
+          "type" : "TRANSLATION_LITERAL",
+          "value" : {
+            "code" : null,
+            "message" : "Home",
+            "comment" : ""
+          }
+        },
+        "order" : 100,
+        "type" : "local"
+      }, {
+        "conditional" : {
+          "type" : "JSON_LITERAL",
+          "value" : null
+        },
+        "extensionPoint" : null,
+        "icon" : "health-status-outline",
+        "id" : "cln356s4102fc357x8fqpv443",
+        "label" : {
+          "type" : "TRANSLATION_LITERAL",
+          "value" : {
+            "code" : null,
+            "message" : "Healthy Food",
+            "comment" : ""
+          }
+        },
+        "order" : 200,
+        "type" : "local"
+      } ],
+      "styles" : { }
+    } ],
+    "layout" : {
+      "default" : {
+        "children" : null,
+        "isInline" : null,
+        "items" : [{"element_id":"viewport_xjk","styles":{"align-self":"center"}}],
+        "root" : null,
+        "rules" : {},
+        "styles" : {"flex-direction":"column","display":"flex","align-items":"center"},
+        "templateId" : null,
+        "type" : "flex"
+      },
+      "version" : "3.0.0"
+    }
+  },
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "isHero" : false,
+  "extensionPoints" : [ ],
+  "isNonDestructive" : false,
+  "items" : [ ],
+  "styles" : {
+    "align-self" : "center"
+  }
+} ]</composition>
+        <da_relay_models/>
+        <data>[ {
+  "definition" : {
+    "id" : "32a752d2c3210110d938e4788940ddf4",
+    "type" : "GRAPHQL"
+  },
+  "dependencies" : { },
+  "elementId" : "fetch_viz_library_predefined_filter",
+  "elementLabel" : "Fetch Viz Library Predefined Filter",
+  "eventMappings" : [ ],
+  "inputValues" : {
+    "type" : {
+      "type" : "STATE_BINDING",
+      "binding" : {
+        "address" : [ "predefinedFilterType" ]
+      }
+    },
+    "searchTerm" : {
+      "type" : "STATE_BINDING",
+      "binding" : {
+        "address" : [ "predefinedFilterSearchTerm" ]
+      }
+    }
+  },
+  "readEvaluationMode" : "EAGER"
+}, {
+  "definition" : {
+    "id" : "aa3828926fb2011089060168e25b36b6",
+    "type" : "GRAPHQL"
+  },
+  "dependencies" : { },
+  "elementId" : "fetch_viz_home_predefined_filter_ac",
+  "elementLabel" : "Fetch Viz Home Predefined Filter AC",
+  "eventMappings" : [ ],
+  "inputValues" : {
+    "type" : {
+      "type" : "STATE_BINDING",
+      "binding" : {
+        "address" : [ "vizFilterType" ]
+      }
+    },
+    "searchTerm" : {
+      "type" : "JSON_LITERAL",
+      "value" : ""
+    }
+  },
+  "readEvaluationMode" : "EAGER"
+}, {
+  "definition" : {
+    "id" : "b997a84053021010cbc2ddeeff7b1228",
+    "type" : "COMPOSITE"
+  },
+  "dependencies" : { },
+  "elementId" : "look_up_records_1",
+  "elementLabel" : "Look Up Records 1",
+  "eventMappings" : [ ],
+  "inputValues" : {
+    "table" : {
+      "type" : "JSON_LITERAL",
+      "value" : "u_ui_hungry"
+    },
+    "encodedQuery" : {
+      "type" : "JSON_LITERAL",
+      "value" : ""
+    },
+    "returnFields" : {
+      "type" : "JSON_LITERAL",
+      "value" : "u_name,u_category,u_favorite,sys_id,u_added,u_image,u_reference_1,u_number"
+    },
+    "orderBy" : {
+      "type" : "JSON_LITERAL",
+      "value" : ""
+    },
+    "sortType" : {
+      "type" : "JSON_LITERAL",
+      "value" : "asc"
+    },
+    "limit" : {
+      "type" : "JSON_LITERAL",
+      "value" : "1000"
+    },
+    "offset" : {
+      "type" : "JSON_LITERAL",
+      "value" : null
+    },
+    "queryCategory" : {
+      "type" : "JSON_LITERAL",
+      "value" : ""
+    },
+    "returnFieldMetadata" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    }
+  },
+  "readEvaluationMode" : "EAGER"
+}, {
+  "definition" : {
+    "id" : "c2b5333a979d31103c39f757f053afc8",
+    "type" : "TRANSFORM"
+  },
+  "dependencies" : { },
+  "elementId" : "get_grocery_favorites_1",
+  "elementLabel" : "Get grocery favorites 1",
+  "eventMappings" : [ ],
+  "inputValues" : {
+    "data" : {
+      "type" : "DATA_OUTPUT_BINDING",
+      "binding" : {
+        "address" : [ "look_up_records_1", "results" ]
+      }
+    }
+  },
+  "readEvaluationMode" : "EAGER"
+} ]</data>
+        <description/>
+        <dispatched_events>2c14e40ec3302010ec37e0dd9740dd71</dispatched_events>
+        <ext_controller_dep/>
+        <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings>{ }</internal_event_mappings>
+        <layout>{
+  "default" : {
+    "children" : null,
+    "isInline" : null,
+    "items" : [{"rules":{},"styles":{"grid-area":"main"},"element_id":"88cfd0cec3302010ec37e0dd9740dde6_Main"}],
+    "root" : null,
+    "rules" : null,
+    "styles" : {"grid-template-rows":"minmax(400px,auto)","grid-template-columns":"1fr","grid-template-areas":"\"main\"","grid-gap":"1rem","height":"100%","display":"flex"},
+    "templateId" : "28bde4cd53431010e6bcddeeff7b12cc",
+    "type" : "flex"
+  },
+  "version" : "3.0.0"
+}</layout>
+        <macroponent_dependencies/>
+        <name>Analytics Center</name>
+        <output_prop_mapping/>
+        <props>[ ]</props>
+        <required_translations>[ {
+  "message" : "&lt;p&gt;It is vital to have awareness of the most healthful foods to ensure a wide a range of nutrients in the diet.&lt;/p&gt;\n&lt;p&gt;A balanced diet is the secret to healthful eating. This article will cover the 15 most healthful foods and their benefits.&lt;/p&gt;\n&lt;div&gt;\n&lt;div&gt;&lt;span style=\"font-size: 14pt;\"&gt;&lt;strong&gt;Nuts, pulses, and grains&lt;/strong&gt;&lt;/span&gt;&lt;/div&gt;\n&lt;p&gt;Nuts, pulses, and grains are all highly nutritious. The following are some of the most healthful:&lt;/p&gt;\n&lt;h3&gt;1. Almonds&lt;/h3&gt;\n&lt;p&gt;Almonds provide plenty of nutrients,&amp;nbsp;&lt;a href=\"https://fdc.nal.usda.gov/fdc-app.html#/food-details/339418/nutrients\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;includingTrusted Source&lt;/a&gt;:&lt;/p&gt;\n&lt;ul style=\"list-style-position: inside;\"&gt;\n&lt;li&gt;&lt;a title=\"Why do we need magnesium?\" href=\"https://www.medicalnewstoday.com/articles/286839.php\" rel=\"nofollow\"&gt;magnesium&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a title=\"What are vitamins, and how do they work?\" href=\"https://www.medicalnewstoday.com/articles/195878.php\" rel=\"nofollow\"&gt;vitamin&lt;/a&gt;&amp;nbsp;E&lt;/li&gt;\n&lt;li&gt;iron&lt;/li&gt;\n&lt;li&gt;&lt;a title=\"Benefits and sources of calcium\" href=\"https://www.medicalnewstoday.com/articles/248958.php\" rel=\"nofollow\"&gt;calcium&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;fiber&lt;/li&gt;\n&lt;li&gt;riboflavin&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;One&amp;nbsp;&lt;a href=\"https://www.ncbi.nlm.nih.gov/pubmed/31243439\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;2019 meta-analysisTrusted Source&lt;/a&gt;&amp;nbsp;found that consuming almonds significantly reduced total&amp;nbsp;&lt;a title=\"What causes high cholesterol?\" href=\"https://www.medicalnewstoday.com/articles/9152.php\" rel=\"nofollow\"&gt;cholesterol&lt;/a&gt;&amp;nbsp;levels.&lt;/p&gt;\n&lt;h3&gt;2. Brazil nuts&lt;/h3&gt;\n&lt;p&gt;Brazil nuts (&lt;em&gt;Bertholletia excelsa&lt;/em&gt;) are some of the most healthful nuts available.&lt;/p&gt;\n&lt;p&gt;They are&amp;nbsp;&lt;a href=\"https://fdc.nal.usda.gov/fdc-app.html#/food-details/339423/nutrients\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;an excellent sourceTrusted Source&lt;/a&gt;&amp;nbsp;of both protein and&amp;nbsp;&lt;a title=\"What you need to know about carbs\" href=\"https://www.medicalnewstoday.com/articles/161547.php\" rel=\"nofollow\"&gt;carbohydrates&lt;/a&gt;, and they also provide good amounts of vitamin B-1, vitamin E, magnesium, and zinc.&lt;/p&gt;\n&lt;p&gt;Brazil nuts also contain more&amp;nbsp;&lt;a title=\"Selenium: What it does and how much you need\" href=\"https://www.medicalnewstoday.com/articles/287842.php\" rel=\"nofollow\"&gt;selenium&lt;/a&gt;&amp;nbsp;than many other foods. Selenium is a vital mineral for maintaining&amp;nbsp;&lt;a href=\"https://ods.od.nih.gov/factsheets/Selenium-Consumer/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;thyroid functionTrusted Source&lt;/a&gt;, and it is a great&amp;nbsp;&lt;a title=\"How can antioxidants benefit our health?\" href=\"https://www.medicalnewstoday.com/articles/301506.php\" rel=\"nofollow\"&gt;antioxidant&lt;/a&gt;&amp;nbsp;for the human body.&lt;/p&gt;\n&lt;p&gt;These nuts come in a hard shell and are usually available ready to eat, making them a quick, nutritious snack.&lt;/p&gt;\n&lt;p&gt;&lt;a href=\"https://www.medicalnewstoday.com/articles/325000.php\" rel=\"nofollow\"&gt;Learn more about Brazil nuts here.&lt;/a&gt;&lt;/p&gt;\n&lt;h3&gt;3. Lentils&lt;/h3&gt;\n&lt;p&gt;A lentil is a&amp;nbsp;&lt;a title=\"What is the pulse and how do I check it?\" href=\"https://www.medicalnewstoday.com/articles/258118.php\" rel=\"nofollow\"&gt;pulse&lt;/a&gt;&amp;nbsp;that features prominently in many food cultures around the world, including those of Pakistan, Nepal, Bangladesh, India, Bhutan, and Sri Lanka.&lt;/p&gt;\n&lt;p&gt;Lentils provide&amp;nbsp;&lt;a href=\"https://fdc.nal.usda.gov/fdc-app.html#/food-details/172420/nutrients\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;good amountsTrusted Source&lt;/a&gt;&amp;nbsp;of fiber, magnesium, and&amp;nbsp;&lt;a title=\"Everything you need to know about potassium\" href=\"https://www.medicalnewstoday.com/articles/287212.php\" rel=\"nofollow\"&gt;potassium&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;They tend to require a long cooking time. However, manufacturers can sprout the seeds, making them a delicious, healthful, ready-to-eat snack.&lt;/p&gt;\n&lt;p&gt;Adding a container of sprouted lentils to a lunchbox or picnic basket, perhaps with some chili powder or pepper for flavoring, makes for a delicious and healthful snack.&lt;/p&gt;\n&lt;p&gt;&lt;a href=\"https://www.medicalnewstoday.com/articles/297638.php\" rel=\"nofollow\"&gt;Learn more about the health benefits of lentils here.&lt;/a&gt;&lt;/p&gt;\n&lt;h3&gt;4. Oatmeal&lt;/h3&gt;\n&lt;p&gt;Interest in oatmeal has increased considerably during the past 20 years because of its health benefits.&lt;/p&gt;\n&lt;p&gt;In 1997, the&amp;nbsp;&lt;a href=\"https://www.govinfo.gov/content/pkg/FR-1997-03-31/pdf/97-7972.pdf\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;Food and Drug Administration&lt;/a&gt;&amp;nbsp;(FDA) agreed that foods with high levels of rolled oats or oat bran could include data on the label about their cardiovascular health benefits as part of a low fat diet. This led to a surge in oatmeal&amp;rsquo;s popularity.&lt;/p&gt;\n&lt;p&gt;Research has found that the cereal&amp;rsquo;s soluble fiber content helps&amp;nbsp;&lt;a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6395719/#__ffn_sectitle\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;lower cholesterol levelsTrusted Source&lt;/a&gt;&amp;nbsp;and reduce cardiovascular risk factors.&lt;/p&gt;\n&lt;p&gt;Oats contain complex carbohydrates, as well as water-soluble fiber. These slow down digestion and help stabilize levels of blood glucose. Oatmeal is also a&amp;nbsp;&lt;a href=\"https://fdc.nal.usda.gov/fdc-app.html#/food-details/340444/nutrients\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;good sourceTrusted Source&lt;/a&gt;&amp;nbsp;of&amp;nbsp;&lt;a title=\"Why is folate good for you?\" href=\"https://www.medicalnewstoday.com/articles/287677.php\" rel=\"nofollow\"&gt;folate&lt;/a&gt;&amp;nbsp;and potassium.&lt;/p&gt;\n&lt;p&gt;People can make oatmeal from rolled or ground oats. Coarse or steel-cut oats contain more fiber than instant varieties.&lt;/p&gt;\n&lt;h3&gt;5. Wheat germ&lt;/h3&gt;\n&lt;p&gt;Wheat germ is the part of wheat that grows into a plant. It is essentially the embryo of a seed. Germ, along with bran, is a byproduct of milling. Refining cereals often removes the germ and bran content.&lt;/p&gt;\n&lt;p&gt;Whole grain products, however, still contain the germ and bran. This makes them a more healthful choice.&lt;/p&gt;\n&lt;p&gt;Wheat germ is high in several vital nutrients, including:&lt;/p&gt;\n&lt;ul style=\"list-style-position: inside;\"&gt;\n&lt;li&gt;fiber&lt;/li&gt;\n&lt;li&gt;vitamin E&lt;/li&gt;\n&lt;li&gt;&lt;a title=\"What to know about folic acid\" href=\"https://www.medicalnewstoday.com/articles/219853.php\" rel=\"nofollow\"&gt;folic acid&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;thiamin&lt;/li&gt;\n&lt;li&gt;zinc&lt;/li&gt;\n&lt;li&gt;magnesium&lt;/li&gt;\n&lt;li&gt;phosphorus&lt;/li&gt;\n&lt;li&gt;fatty alcohols&lt;/li&gt;\n&lt;li&gt;essential fatty acids&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div id=\"m24436233-2dc2-4dea-8cb9-c130c0bc208bmpd_firstQuarter_704c7093-50ac-4e58-89e9-d67e4770717c\"&gt;\n&lt;div&gt;\n&lt;div&gt;\n&lt;div&gt;\n&lt;div&gt;\n&lt;div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;div&gt;\n&lt;div&gt;&lt;strong&gt;&lt;span style=\"font-size: 14pt;\"&gt;Fruits, vegetables, and berries&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;\n&lt;p&gt;Fruits, vegetables, and berries are easy to incorporate into the diet. The following are some of the most healthful:&lt;/p&gt;\n&lt;h3&gt;6. Broccoli&lt;/h3&gt;\n&lt;p&gt;Broccoli provides&amp;nbsp;&lt;a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6356358/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;good amountsTrusted Source&lt;/a&gt;&amp;nbsp;of fiber, calcium, potassium, folate, and phytonutrients. Phytonutrients are compounds that reduce the risk of developing&amp;nbsp;&lt;a title=\"Everything you need to know about heart disease\" href=\"https://www.medicalnewstoday.com/articles/237191.php\" rel=\"nofollow\"&gt;heart disease&lt;/a&gt;,&amp;nbsp;&lt;a title=\"What is Diabetes?\" href=\"https://www.medicalnewstoday.com/info/diabetes/\" rel=\"nofollow\"&gt;diabetes&lt;/a&gt;, and some&amp;nbsp;&lt;a title=\"What is Cancer?\" href=\"https://www.medicalnewstoday.com/info/cancer-oncology/\" rel=\"nofollow\"&gt;cancers&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;Broccoli also provides essential antioxidants such as vitamin C and&amp;nbsp;&lt;a title=\"All you need to know about beta carotene\" href=\"https://www.medicalnewstoday.com/articles/252758.php\" rel=\"nofollow\"&gt;beta-carotene&lt;/a&gt;. In fact, a single half-cup serving of broccoli can provide around&amp;nbsp;&lt;a href=\"https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;85%Trusted Source&lt;/a&gt;&amp;nbsp;of a person&amp;rsquo;s daily vitamin C value.&lt;/p&gt;\n&lt;p&gt;Another compound in broccoli, called sulforaphane, may have anticancer and anti-inflammatory qualities, according to&amp;nbsp;&lt;a href=\"https://www.ncbi.nlm.nih.gov/pubmed/31044154\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;one 2019 studyTrusted Source&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;However, overcooking broccoli can destroy many of its key nutrients. For this reason, it is best to eat it raw or lightly steamed.&lt;/p&gt;\n&lt;p&gt;&lt;a href=\"https://www.medicalnewstoday.com/articles/266765.php\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;Learn more about the nutritional impact of broccoli here.&lt;/a&gt;&lt;/p&gt;\n&lt;h3&gt;7. Apples&lt;/h3&gt;\n&lt;p&gt;Apples are an excellent source of antioxidants, which combat free radicals. Free radicals are damaging substances that the body generates. They cause undesirable changes in the body and may contribute to chronic conditions, as well as the aging process.&lt;/p&gt;\n&lt;p&gt;However,&amp;nbsp;&lt;a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3714114/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;some studiesTrusted Source&lt;/a&gt;&amp;nbsp;have suggested that an antioxidant in apples might extend a person&amp;rsquo;s life span and reduce the risk of chronic disease.&lt;/p&gt;\n&lt;p&gt;&lt;a href=\"https://www.medicalnewstoday.com/articles/267290.php\" rel=\"nofollow\"&gt;Learn more about apples here.&lt;/a&gt;&lt;/p&gt;\n&lt;h3&gt;8. Kale&lt;/h3&gt;\n&lt;p&gt;&lt;a title=\"What are the health benefits of kale?\" href=\"https://www.medicalnewstoday.com/articles/270435.php\" rel=\"nofollow\"&gt;Kale&lt;/a&gt;&amp;nbsp;is a leafy green vegetable that offers a wide range of different nutrients. For example, this powerfully nutritious plant is an&amp;nbsp;&lt;a href=\"https://fdc.nal.usda.gov/fdc-app.html#/food-details/168421/nutrients\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;excellent sourceTrusted Source&lt;/a&gt;&amp;nbsp;of vitamins C and K.&lt;/p&gt;\n&lt;p&gt;People can cook or steam kale. They can also blend it into smoothies or juices for a nutritional kick.&lt;/p&gt;\n&lt;p&gt;&lt;a href=\"https://www.medicalnewstoday.com/articles/270435.php\" rel=\"nofollow\"&gt;Learn more about how to include kale in the diet here.&lt;/a&gt;&lt;/p&gt;\n&lt;h3&gt;9. Blueberries&lt;/h3&gt;\n&lt;p&gt;&lt;a title=\"Everything you need to know about blueberries\" href=\"https://www.medicalnewstoday.com/articles/287710.php\" rel=\"nofollow\"&gt;Blueberries&lt;/a&gt;&amp;nbsp;provide substantial amounts of fiber, antioxidants, and phytonutrients. Unlike minerals and vitamins, phytonutrients are not essential for survival. However, they may help prevent disease and maintain vital bodily functions.&lt;/p&gt;\n&lt;p&gt;In&amp;nbsp;&lt;a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6683271/#__ffn_sectitle\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;a 2019 reviewTrusted Source&lt;/a&gt;&amp;nbsp;of 16 studies, the authors suggest that consuming blueberries may help protect against cognitive decline, which may help reduce the risk of&amp;nbsp;&lt;a title=\"What to know about Alzheimer's disease\" href=\"https://www.medicalnewstoday.com/articles/159442.php\" rel=\"nofollow\"&gt;Alzheimer&amp;rsquo;s disease&lt;/a&gt;. They also found that blueberries might help prevent cardiovascular disease.&lt;/p&gt;\n&lt;p&gt;Another&amp;nbsp;&lt;a href=\"https://www.ncbi.nlm.nih.gov/pubmed/30471564\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;2019 studyTrusted Source&lt;/a&gt;, this time in mice, found that blueberry polyphenols reduced&amp;nbsp;&lt;a title=\"How Much Should I Weigh?\" href=\"https://www.medicalnewstoday.com/info/obesity/how-much-should-i-weigh.php\" rel=\"nofollow\"&gt;obesity&lt;/a&gt;&amp;nbsp;and certain metabolic risk factors. They also improved the composition of gut bacteria.&lt;/p&gt;\n&lt;p&gt;According to&amp;nbsp;&lt;a href=\"https://www.ncbi.nlm.nih.gov/pubmed/25578927\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;a 2015 clinical trialTrusted Source&lt;/a&gt;, eating 22 grams of freeze dried blueberries every day for 8 weeks led to a significant decrease in&amp;nbsp;&lt;a title=\"What is a normal blood pressure?\" href=\"https://www.medicalnewstoday.com/articles/270644.php\" rel=\"nofollow\"&gt;blood pressure&lt;/a&gt;&amp;nbsp;among women with stage 1&amp;nbsp;&lt;a title=\"Everything you need to know about hypertension\" href=\"https://www.medicalnewstoday.com/articles/150109.php\" rel=\"nofollow\"&gt;hypertension&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;&lt;a href=\"https://www.medicalnewstoday.com/articles/287710.php\" rel=\"nofollow\"&gt;Discover the nutritional power of blueberries.&lt;/a&gt;&lt;/p&gt;\n&lt;h3&gt;10. Avocados&lt;/h3&gt;\n&lt;p&gt;Some people avoid consuming avocados due to their high fat content. However, avocados&amp;nbsp;&lt;a href=\"https://fdc.nal.usda.gov/fdc-app.html#/food-details/341528/nutrients\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;provide healthful fatsTrusted Source&lt;/a&gt;, as well as B vitamins, vitamin K, and vitamin E. Avocados are also a good source of fiber.&lt;/p&gt;\n&lt;p&gt;In&amp;nbsp;&lt;a href=\"https://www.ncbi.nlm.nih.gov/pubmed/29635493\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;one 2018 reviewTrusted Source&lt;/a&gt;&amp;nbsp;of studies, avocados increased levels of high-density lipoprotein, or &amp;ldquo;good,&amp;rdquo; cholesterol. This type of cholesterol removes more harmful cholesterol from the bloodstream.&lt;/p&gt;\n&lt;p&gt;Avocados might also have anticancer properties.&amp;nbsp;&lt;a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6507236/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;A 2019 test tube studyTrusted Source&lt;/a&gt;&amp;nbsp;of avocados showed that colored avocado seed extract reduced the viability of breast, colon, and&amp;nbsp;&lt;a title=\"What to know about prostate cancer\" href=\"https://www.medicalnewstoday.com/articles/150086.php\" rel=\"nofollow\"&gt;prostate cancer&lt;/a&gt;&amp;nbsp;cells. However, the study did not indicate whether or not the effects would be the same in humans.&lt;/p&gt;\n&lt;p&gt;Avocados may also have associations with improved nutrient absorption, better overall diet, and fewer metabolic risk factors, according to&amp;nbsp;&lt;a href=\"https://nutritionj.biomedcentral.com/articles/10.1186/1475-2891-12-1\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;one 2013 studyTrusted Source&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;&lt;a href=\"https://www.medicalnewstoday.com/articles/318620.php\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;Avocados are highly nutritious and very filling. Learn more about them here.&lt;/a&gt;&lt;/p&gt;\n&lt;h3&gt;11. Leafy green vegetables&lt;/h3&gt;\n&lt;p&gt;One&amp;nbsp;&lt;a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6413025/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;2019 studyTrusted Source&lt;/a&gt;&amp;nbsp;in rats showed that consuming leafy greens for 6 weeks led to a significant reduction in cardiovascular risk factors.&lt;/p&gt;\n&lt;p&gt;Spinach is an example of a leafy green with antioxidant content, especially when it is raw, steamed, or very lightly boiled. It is a good source of&amp;nbsp;&lt;a href=\"https://fdc.nal.usda.gov/fdc-app.html#/food-details/342205/nutrients\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;the following nutrientsTrusted Source&lt;/a&gt;:&lt;/p&gt;\n&lt;ul style=\"list-style-position: inside;\"&gt;\n&lt;li&gt;vitamins A, B-6, C, E, and K&lt;/li&gt;\n&lt;li&gt;selenium&lt;/li&gt;\n&lt;li&gt;niacin&lt;/li&gt;\n&lt;li&gt;zinc&lt;/li&gt;\n&lt;li&gt;phosphorus&lt;/li&gt;\n&lt;li&gt;&lt;a title=\"Health benefits and risks of copper\" href=\"https://www.medicalnewstoday.com/articles/288165.php\" rel=\"nofollow\"&gt;copper&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;potassium&lt;/li&gt;\n&lt;li&gt;calcium&lt;/li&gt;\n&lt;li&gt;manganese&lt;/li&gt;\n&lt;li&gt;betaine&lt;/li&gt;\n&lt;li&gt;iron&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Learn about the many benefits of spinach here.&lt;/p&gt;\n&lt;h3&gt;12. Sweet potatoes&lt;/h3&gt;\n&lt;p&gt;Sweet potatoes provide dietary fiber, vitamin A, vitamin C, vitamin B-6, and potassium.&lt;/p&gt;\n&lt;p&gt;The&amp;nbsp;&lt;a href=\"https://cspinet.org/eating-healthy/what-eat/10-best-foods\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;Center for Science in the Public Interest&lt;/a&gt;&amp;nbsp;compared the nutritional value of sweet potatoes with that of several other vegetables.&lt;/p&gt;\n&lt;p&gt;Sweet potatoes ranked number one for their vitamin A, vitamin C, iron, calcium, protein, and complex carbohydrate content.&lt;/p&gt;\n&lt;/div&gt;\n&lt;div&gt;\n&lt;div&gt;&lt;span style=\"font-size: 14pt;\"&gt;&lt;strong&gt;Fish, meat, and eggs&lt;/strong&gt;&lt;/span&gt;&lt;/div&gt;\n&lt;p&gt;When it comes to fish, meat, and eggs, many healthful options are available. For example:&lt;/p&gt;\n&lt;h3&gt;13. Oily fish&lt;/h3&gt;\n&lt;p&gt;Some examples of oily fish include salmon, trout, mackerel, herring, sardines, and anchovies. These types of fish have oil in their tissues and around their gut.&lt;/p&gt;\n&lt;p&gt;Their lean fillets contain&amp;nbsp;&lt;a href=\"https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;high levels of omega-3 fatty acidsTrusted Source&lt;/a&gt;. These oils may provide benefits for the heart and nervous system, according to the Office of Dietary Supplements (ODS).&lt;/p&gt;\n&lt;p&gt;The ODS also suggest that&amp;nbsp;&lt;a title=\"Can fish oils and omega-3 oils benefit our health?\" href=\"https://www.medicalnewstoday.com/articles/40253.php\" rel=\"nofollow\"&gt;omega-3&lt;/a&gt;&amp;nbsp;fatty acids can help with inflammatory conditions such as&amp;nbsp;&lt;a title=\"What are the causes and types of arthritis?\" href=\"https://www.medicalnewstoday.com/articles/7621.php\" rel=\"nofollow\"&gt;arthritis&lt;/a&gt;. They are also plentiful in vitamins A and D.&lt;/p&gt;\n&lt;p&gt;One&amp;nbsp;&lt;a href=\"https://ard.bmj.com/content/73/11/1949.short\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;2014 study&lt;/a&gt;&amp;nbsp;suggested that fatty acids can significantly reduce the risk of&amp;nbsp;&lt;a title=\"What is Rheumatoid Arthritis?\" href=\"https://www.medicalnewstoday.com/info/rheumatoid-arthritis/\" rel=\"nofollow\"&gt;rheumatoid arthritis&lt;/a&gt;.&lt;/p&gt;\n&lt;h3&gt;14. Chicken&lt;/h3&gt;\n&lt;p&gt;Chicken is a cost effective and healthful meat. Free-range chicken serves as an excellent source of protein.&lt;/p&gt;\n&lt;p&gt;However, it is important to remember that preparation and cooking methods affect how healthful chicken is. This means that people should limit their intake of deep-fried chicken and always remove the skin before consumption. Chicken skin has high levels of saturated fat.&lt;/p&gt;\n&lt;h3&gt;15. Eggs&lt;/h3&gt;\n&lt;p&gt;Eggs are another source of protein that people can easily incorporate into a balanced diet, as they are highly versatile.&lt;/p&gt;\n&lt;p&gt;Eggs contain vitamins&amp;nbsp;&lt;a href=\"https://fdc.nal.usda.gov/fdc-app.html#/food-details/339005/nutrients\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;includingTrusted Source&lt;/a&gt;&amp;nbsp;B-2 and B-12, both of which are important for preserving energy and generating red blood cells. Eggs are also a good source of the essential amino acid leucine, which plays a role in stimulating muscle protein synthesis. Eggs also provide a good amount of choline, which is important for cell membranes.&lt;/p&gt;\n&lt;p&gt;The yolk contains most of the egg&amp;rsquo;s vitamins and minerals, as well as the fat and cholesterol. However,&amp;nbsp;&lt;a href=\"https://www.ncbi.nlm.nih.gov/pubmed/28504636\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;one 2017 reviewTrusted Source&lt;/a&gt;&amp;nbsp;found that eating up to seven eggs per week does not increase the risk of heart disease. That said, the authors mention that people with cardiovascular disease or diabetes should seek medical consultation about including eggs in the diet.&lt;/p&gt;\n&lt;p&gt;Indeed,&amp;nbsp;&lt;a href=\"https://jamanetwork.com/journals/jama/fullarticle/2728487\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"&gt;one studyTrusted Source&lt;/a&gt;&amp;nbsp;found higher rates of cardiovascular disease in people who consumed more cholesterol from eggs.&lt;/p&gt;\n&lt;p&gt;Consuming fat in moderate amounts is healthful as part of a balanced, nutritious diet.&lt;/p&gt;\n&lt;/div&gt;",
+  "comment" : ""
+}, {
+  "message" : "Categories",
+  "comment" : ""
+}, {
+  "message" : "Favorites",
+  "comment" : ""
+}, {
+  "message" : "Healthy Food",
+  "comment" : ""
+}, {
+  "message" : "Home",
+  "comment" : ""
+}, {
+  "message" : "Items",
+  "comment" : ""
+}, {
+  "message" : "This article lists the 15 foods that sources and studies across the United States and Western Europe deem the most healthy. They include nuts, lentils, apples, broccoli, oatmeal, and eggs.",
+  "comment" : ""
+}, {
+  "message" : "UI Hungry",
+  "comment" : ""
+}, {
+  "message" : "What are the most healthy foods?\n",
+  "comment" : ""
+} ]</required_translations>
+        <root_component/>
+        <root_component_config>{ }</root_component_config>
+        <root_component_definition/>
+        <schema_version>1.0.0</schema_version>
+        <state_properties>[ {
+  "name" : "nlq_results_full_page",
+  "label" : "nlq_results_full_page",
+  "fieldType" : "boolean",
+  "valueType" : "boolean",
+  "shape" : "",
+  "description" : "",
+  "initialValue" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  }
+}, {
+  "name" : "predefinedFilterType",
+  "label" : "predefinedFilterType",
+  "fieldType" : "",
+  "valueType" : "",
+  "shape" : "",
+  "description" : "",
+  "initialValue" : {
+    "type" : "JSON_LITERAL",
+    "value" : "all"
+  }
+}, {
+  "name" : "predefinedFilterSearchTerm",
+  "label" : "predefinedFilterSearchTerm",
+  "fieldType" : "",
+  "valueType" : "",
+  "shape" : "",
+  "description" : "",
+  "initialValue" : {
+    "type" : "JSON_LITERAL",
+    "value" : " "
+  }
+}, {
+  "name" : "kpiSearchTerm",
+  "label" : "kpiSearchTerm",
+  "fieldType" : "",
+  "valueType" : "",
+  "shape" : "",
+  "description" : "",
+  "initialValue" : {
+    "type" : "JSON_LITERAL",
+    "value" : null
+  }
+}, {
+  "name" : "kpiFilter",
+  "label" : "kpiFilter",
+  "fieldType" : "",
+  "valueType" : "",
+  "shape" : "",
+  "description" : "",
+  "initialValue" : {
+    "type" : "JSON_LITERAL",
+    "value" : "all"
+  }
+}, {
+  "name" : "showBookmarked",
+  "label" : "showBookmarked",
+  "fieldType" : "boolean",
+  "valueType" : "boolean",
+  "shape" : "",
+  "description" : "",
+  "initialValue" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  }
+}, {
+  "name" : "vizFilterType",
+  "label" : "vizFilterType",
+  "fieldType" : "",
+  "valueType" : "",
+  "shape" : "",
+  "description" : "",
+  "initialValue" : {
+    "type" : "JSON_LITERAL",
+    "value" : "bookmarked"
+  }
+} ]</state_properties>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-27 13:16:22</sys_created_on>
+        <sys_id>fe3a739197e1bd103c39f757f053af23</sys_id>
+        <sys_mod_count>127</sys_mod_count>
+        <sys_name>Analytics Center</sys_name>
+        <sys_package display_value="Magdas House" source="x_1027698_magdas_0">a70c2255972d7d103c39f757f053afe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Magdas House">a70c2255972d7d103c39f757f053afe8</sys_scope>
+        <sys_update_name>sys_ux_macroponent_fe3a739197e1bd103c39f757f053af23</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-29 15:22:07</sys_updated_on>
+    </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=fe3a739197e1bd103c39f757f053af23"/>
+</record_update>

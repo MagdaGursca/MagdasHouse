@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="Magdas House search profile">030de695942d7d101e1f8f6ce627b95d</profile>
+        <search_source display_value="List item">01cc020997253d103c39f757f053af5b</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-27 07:39:14</sys_created_on>
+        <sys_id>441d2a95972d7d103c39f757f053aff5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Magdas House search profile.List item</sys_name>
+        <sys_package display_value="Magdas House" source="x_1027698_magdas_0">a70c2255972d7d103c39f757f053afe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Magdas House">a70c2255972d7d103c39f757f053afe8</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_441d2a95972d7d103c39f757f053aff5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-27 07:39:14</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

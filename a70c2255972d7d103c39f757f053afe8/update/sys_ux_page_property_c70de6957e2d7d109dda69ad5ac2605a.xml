@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="Magdas House">470de695db2d7d1048af53ca98388f57</page>
+        <required_translations>[ {
+  "message" : "New ABC",
+  "comment" : ""
+}, {
+  "message" : "New Item",
+  "comment" : ""
+}, {
+  "message" : "New List item",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-27 07:39:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>c70de6957e2d7d109dda69ad5ac2605a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="Magdas House" source="x_1027698_magdas_0">a70c2255972d7d103c39f757f053afe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Magdas House">a70c2255972d7d103c39f757f053afe8</sys_scope>
+        <sys_update_name>sys_ux_page_property_c70de6957e2d7d109dda69ad5ac2605a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-27 14:22:19</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1027698_magdas_0.470de695db2d7d1048af53ca98388f57.root.chrome_tab</unique_name>
+        <value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New List item"},"routeInfo":{"route":"record","fields":{"table":"u_list_item","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"u_list_item","canCreate":true}}},{"label":{"translatable":true,"message":"New ABC"},"routeInfo":{"route":"record","fields":{"table":"u_abc","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"u_abc","canCreate":true}}},{"label":{"translatable":true,"message":"New Item"},"routeInfo":{"route":"record","fields":{"table":"u_ui_hungry","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"u_ui_hungry","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=c70de6957e2d7d109dda69ad5ac2605a"/>
+</record_update>

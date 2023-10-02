@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_user_metadata">
+    <par_dashboard_user_metadata action="DELETE">
+        <created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user>
+        <created_on>2023-09-27 10:35:51</created_on>
+        <dashboard display_value="Magdas Items">9b75db9d97ed7d103c39f757f053afd2</dashboard>
+        <last_updated_on>2023-09-27 10:35:51</last_updated_on>
+        <requested_by_user/>
+        <sys_class_name>par_dashboard_user_metadata</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-27 10:35:51</sys_created_on>
+        <sys_id>9f75db9d97ed7d103c39f757f053afd4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Magdas House" source="x_1027698_magdas_0">a70c2255972d7d103c39f757f053afe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Magdas House">a70c2255972d7d103c39f757f053afe8</sys_scope>
+        <sys_update_name>par_dashboard_user_metadata_9f75db9d97ed7d103c39f757f053afd4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-27 10:35:51</sys_updated_on>
+        <updated_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</updated_by_user>
+    </par_dashboard_user_metadata>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Magdas House">a70c2255972d7d103c39f757f053afe8</application>
+        <file_path/>
+        <instance_id>b6be5718db9195149df22f17d4961918</instance_id>
+        <instance_name>dev131217</instance_name>
+        <name>par_dashboard_user_metadata_9f75db9d97ed7d103c39f757f053afd4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_user_metadata"><par_dashboard_user_metadata action="INSERT_OR_UPDATE"><created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user><created_on>2023-09-27 10:35:51</created_on><dashboard display_value="Magdas Items">9b75db9d97ed7d103c39f757f053afd2</dashboard><last_updated_on>2023-09-27 10:35:51</last_updated_on><requested_by_user/><sys_class_name>par_dashboard_user_metadata</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-27 10:35:51</sys_created_on><sys_id>9f75db9d97ed7d103c39f757f053afd4</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Magdas House" source="x_1027698_magdas_0">a70c2255972d7d103c39f757f053afe8</sys_package><sys_policy/><sys_scope display_value="Magdas House">a70c2255972d7d103c39f757f053afe8</sys_scope><sys_update_name>par_dashboard_user_metadata_9f75db9d97ed7d103c39f757f053afd4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-27 10:35:51</sys_updated_on><updated_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</updated_by_user></par_dashboard_user_metadata></record_update>]]></payload>
+        <payload_hash>-1366892460</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>ab0c2255972d7d103c39f757f053afea</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-27 10:35:51</sys_created_on>
+        <sys_id>9b75db9d97ed7d103c39f757f053afd6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ad635984a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-27 10:35:51</sys_updated_on>
+        <type>PAR Dashboard User Metadata</type>
+        <update_guid>9375db9dffed7d10f452383b098ea1d6</update_guid>
+        <update_guid_history>9375db9dffed7d10f452383b098ea1d6:-1366892460</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">1295d7dd97ed7d103c39f757f053afcc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-27 10:36:20</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_user_metadata">par_dashboard_user_metadata</sys_db_object>
+        <sys_id>64c61ce10ac2435bad4548b007a48fa1</sys_id>
+        <sys_metadata>9f75db9d97ed7d103c39f757f053afd4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Magdas House" source="x_1027698_magdas_0">a70c2255972d7d103c39f757f053afe8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Magdas House">a70c2255972d7d103c39f757f053afe8</sys_scope>
+        <sys_scope_delete display_value="">155ed1e0d3b14ae2887faa2d4edf74a4</sys_scope_delete>
+        <sys_update_name>par_dashboard_user_metadata_9f75db9d97ed7d103c39f757f053afd4</sys_update_name>
+        <sys_update_version display_value="par_dashboard_user_metadata_9f75db9d97ed7d103c39f757f053afd4">9b75db9d97ed7d103c39f757f053afd6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-27 10:36:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

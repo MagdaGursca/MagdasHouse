@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Item" section_id="518793919721bd103c39f757f053af8d" sys_domain="global" table="u_ui_hungry" version="3" view="Magdas_House">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-27 10:47:05</sys_created_on>
+            <sys_id>f3085f919721bd103c39f757f053afed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Item" display_value="Item" name="u_ui_hungry" sys_domain="global" view="d18793919721bd103c39f757f053af89">518793919721bd103c39f757f053af8d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-27 10:47:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-27 10:47:05</sys_created_on>
+            <sys_id>fb085f919721bd103c39f757f053afed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Item" display_value="Item" name="u_ui_hungry" sys_domain="global" view="d18793919721bd103c39f757f053af89">518793919721bd103c39f757f053af8d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-27 10:47:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_category</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-27 10:47:05</sys_created_on>
+            <sys_id>bb089f919721bd103c39f757f053af8f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Item" display_value="Item" name="u_ui_hungry" sys_domain="global" view="d18793919721bd103c39f757f053af89">518793919721bd103c39f757f053af8d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-27 10:47:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-27 10:47:05</sys_created_on>
+            <sys_id>bf089f919721bd103c39f757f053af8f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Item" display_value="Item" name="u_ui_hungry" sys_domain="global" view="d18793919721bd103c39f757f053af89">518793919721bd103c39f757f053af8d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-27 10:47:05</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_favorite</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-27 10:47:05</sys_created_on>
+            <sys_id>b3089f919721bd103c39f757f053af90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Item" display_value="Item" name="u_ui_hungry" sys_domain="global" view="d18793919721bd103c39f757f053af89">518793919721bd103c39f757f053af8d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-27 10:47:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_state</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-27 10:47:05</sys_created_on>
+            <sys_id>b7089f919721bd103c39f757f053af90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Item" display_value="Item" name="u_ui_hungry" sys_domain="global" view="d18793919721bd103c39f757f053af89">518793919721bd103c39f757f053af8d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-27 10:47:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_reference_1</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-27 10:47:05</sys_created_on>
+            <sys_id>bb089f919721bd103c39f757f053af90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Item" display_value="Item" name="u_ui_hungry" sys_domain="global" view="d18793919721bd103c39f757f053af89">518793919721bd103c39f757f053af8d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-27 10:47:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-27 10:47:05</sys_created_on>
+            <sys_id>bf089f919721bd103c39f757f053af90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Item" display_value="Item" name="u_ui_hungry" sys_domain="global" view="d18793919721bd103c39f757f053af89">518793919721bd103c39f757f053af8d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-27 10:47:05</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_image</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-27 10:47:05</sys_created_on>
+            <sys_id>b3089f919721bd103c39f757f053af91</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Item" display_value="Item" name="u_ui_hungry" sys_domain="global" view="d18793919721bd103c39f757f053af89">518793919721bd103c39f757f053af8d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-27 10:47:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Item</caption>
+            <header>false</header>
+            <name>u_ui_hungry</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-27 10:44:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>518793919721bd103c39f757f053af8d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>u_ui_hungry</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Magdas House" source="x_1027698_magdas_0">a70c2255972d7d103c39f757f053afe8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Magdas House">a70c2255972d7d103c39f757f053afe8</sys_scope>
+            <sys_update_name>sys_ui_section_518793919721bd103c39f757f053af8d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-27 10:47:05</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Magdas House" name="Magdas_House">d18793919721bd103c39f757f053af89</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Magdas House">a70c2255972d7d103c39f757f053afe8</application>
+        <file_path/>
+        <instance_id>b6be5718db9195149df22f17d4961918</instance_id>
+        <instance_name>dev131217</instance_name>
+        <name>sys_ui_section_518793919721bd103c39f757f053af8d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Item" section_id="518793919721bd103c39f757f053af8d" sys_domain="global" table="u_ui_hungry" version="3" view="Magdas_House"><sys_ui_element action="INSERT_OR_UPDATE"><element>u_number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-27 10:47:05</sys_created_on><sys_id>f3085f919721bd103c39f757f053afed</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Item" display_value="Item" name="u_ui_hungry" sys_domain="global" view="d18793919721bd103c39f757f053af89">518793919721bd103c39f757f053af8d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-27 10:47:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_name</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-27 10:47:05</sys_created_on><sys_id>fb085f919721bd103c39f757f053afed</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Item" display_value="Item" name="u_ui_hungry" sys_domain="global" view="d18793919721bd103c39f757f053af89">518793919721bd103c39f757f053af8d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-27 10:47:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_category</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-27 10:47:05</sys_created_on><sys_id>bb089f919721bd103c39f757f053af8f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Item" display_value="Item" name="u_ui_hungry" sys_domain="global" view="d18793919721bd103c39f757f053af89">518793919721bd103c39f757f053af8d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-27 10:47:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-27 10:47:05</sys_created_on><sys_id>bf089f919721bd103c39f757f053af8f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Item" display_value="Item" name="u_ui_hungry" sys_domain="global" view="d18793919721bd103c39f757f053af89">518793919721bd103c39f757f053af8d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-27 10:47:05</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_favorite</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-27 10:47:05</sys_created_on><sys_id>b3089f919721bd103c39f757f053af90</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Item" display_value="Item" name="u_ui_hungry" sys_domain="global" view="d18793919721bd103c39f757f053af89">518793919721bd103c39f757f053af8d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-27 10:47:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_state</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-27 10:47:05</sys_created_on><sys_id>b7089f919721bd103c39f757f053af90</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Item" display_value="Item" name="u_ui_hungry" sys_domain="global" view="d18793919721bd103c39f757f053af89">518793919721bd103c39f757f053af8d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-27 10:47:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_reference_1</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-27 10:47:05</sys_created_on><sys_id>bb089f919721bd103c39f757f053af90</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Item" display_value="Item" name="u_ui_hungry" sys_domain="global" view="d18793919721bd103c39f757f053af89">518793919721bd103c39f757f053af8d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-27 10:47:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-27 10:47:05</sys_created_on><sys_id>bf089f919721bd103c39f757f053af90</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Item" display_value="Item" name="u_ui_hungry" sys_domain="global" view="d18793919721bd103c39f757f053af89">518793919721bd103c39f757f053af8d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-27 10:47:05</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_image</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-27 10:47:05</sys_created_on><sys_id>b3089f919721bd103c39f757f053af91</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Item" display_value="Item" name="u_ui_hungry" sys_domain="global" view="d18793919721bd103c39f757f053af89">518793919721bd103c39f757f053af8d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-27 10:47:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Item</caption><header>false</header><name>u_ui_hungry</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-27 10:44:43</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>518793919721bd103c39f757f053af8d</sys_id><sys_mod_count>1</sys_mod_count><sys_name>u_ui_hungry</sys_name><sys_overrides/><sys_package display_value="Magdas House" source="x_1027698_magdas_0">a70c2255972d7d103c39f757f053afe8</sys_package><sys_policy/><sys_scope display_value="Magdas House">a70c2255972d7d103c39f757f053afe8</sys_scope><sys_update_name>sys_ui_section_518793919721bd103c39f757f053af8d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-27 10:47:05</sys_updated_on><sys_user/><title>false</title><view display_value="Magdas House" name="Magdas_House">d18793919721bd103c39f757f053af89</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1880121747</payload_hash>
+        <record_name>UI Hungry</record_name>
+        <reverted_from/>
+        <source>ab0c2255972d7d103c39f757f053afea</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-27 10:47:05</sys_created_on>
+        <sys_id>f7089f919721bd103c39f757f053af93</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ad63fe16b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-27 10:47:05</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>bf089f914821bd1009f6253e0b6fde92</update_guid>
+        <update_guid_history>bf089f914821bd1009f6253e0b6fde92:1880121747,bf085f914621bd106f9597e82cdd6deb:-464062625,d587d391e721bd104c560dd3635b5c18:989549239</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-27 11:05:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>50070e5a9c60494a8d89b8a65324a0c4</sys_id>
+        <sys_metadata>518793919721bd103c39f757f053af8d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Item</sys_name>
+        <sys_package display_value="Magdas House" source="x_1027698_magdas_0">a70c2255972d7d103c39f757f053afe8</sys_package>
+        <sys_parent display_value="UI Hungry">a52f23fe975d31103c39f757f053aff7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Magdas House">a70c2255972d7d103c39f757f053afe8</sys_scope>
+        <sys_scope_delete display_value="">155ed1e0d3b14ae2887faa2d4edf74a4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_518793919721bd103c39f757f053af8d</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_518793919721bd103c39f757f053af8d">f7089f919721bd103c39f757f053af93</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-27 11:05:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

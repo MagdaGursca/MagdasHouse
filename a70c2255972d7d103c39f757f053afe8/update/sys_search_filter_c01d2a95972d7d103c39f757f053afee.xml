@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="UI Hungry">0dcc020997253d103c39f757f053af36</ais_search_source>
+        <label>UI Hungry</label>
+        <name>UI Hungry</name>
+        <order>100</order>
+        <search_context_config display_value="Magdas House AI Search Configuration">030de6958c2d7d108af7dd958537f458</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-27 07:39:14</sys_created_on>
+        <sys_id>c01d2a95972d7d103c39f757f053afee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UI Hungry</sys_name>
+        <sys_package display_value="Magdas House" source="x_1027698_magdas_0">a70c2255972d7d103c39f757f053afe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Magdas House">a70c2255972d7d103c39f757f053afe8</sys_scope>
+        <sys_update_name>sys_search_filter_c01d2a95972d7d103c39f757f053afee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-27 07:39:14</sys_updated_on>
+    </sys_search_filter>
+</record_update>
